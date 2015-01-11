@@ -1,715 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/news/6/100x56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/news/6/200x112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/10/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/11/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/12/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/13/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/3/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/5/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/6/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/7/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/8/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/product_category/9/68x68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Diamond2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/Yuvelirnaya-masterskaya-v-Ekaterinburge.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/back1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/back10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/back2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/banner_div.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addon/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/header/cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/catalog/images/center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/chistka_yuvelirnyh_izdeliy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/colorbox/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/orders/images/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/orders/images/delete_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/diamond.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/edits.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancy_title_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancybox-x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancybox-y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancybox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/orders/images/field.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/files.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.eot?" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.eot?v=4.2.0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.ttf?v=4.2.0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addon/gadget-color.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.eot?" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/catalog/images/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/catalog/images/help_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/catalog/images/help_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/contact/icq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/catalog/images/item-photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/gallery/images/item-photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/gallery/images/item-popup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/lazernaya-pajka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addon/li.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/li.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/vertical_menu/images/li.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/vertical_menu/images/li_sub.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/footer/login-link-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/footer/login-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/footer/logosmall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/illustration/images/marker-active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/illustration/images/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/comparison/images/minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/modal-window-close-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/navi-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/navi-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/path-item.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/piccootev.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/comparison/images/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/orders/images/print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/catalog/images/rating.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/remont_cepochek(2).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/remont_chasov.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/remont_ochkov.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rodirovanie(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/header/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/fields/images/select-mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/shapka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/contact/skype.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/sort_by.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/sort_by_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/inner/images/sort_by_up_down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/images/totopicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/uvelichenie_kolec(3).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/yuvelirnaya-kosmetika.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/image/yuvelirnye-izdeliya-na-zakaz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/styles/application.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/styles/application.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/scripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/chistka-yuvelirnyih-izdeliy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contacts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/css/font-awesome.min.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.svg?v=4.2.0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addon/gadget-color.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/iFrameHeight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/includes.min.css?v=1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/includes.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/izgotovlenie-pod-zakaz.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.arctext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.mouse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/scripts/jquery.uploadify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/lazernaya-payka.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/o-kompanii.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/article/preyskurant.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/prodazha-yuvelirnoy-kosmetiki.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/remont-chasov.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/remont-ochkovyih-oprav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/remont-tsepochek.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/rodirovanie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/styles/simplemodal-white.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/styles/simplemodal-white.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/styles/sitemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/spin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic/styles.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/styles/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/styles/totop.css.orig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/styles/totop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/common/scripts/totop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/designs/design_4/application/styles/uploadify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/product/uvelichenie-kolets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uvelir_ltd_ua.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uvelir_ltd_ua.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/images/�%84абе�%80же-190x250.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/images/�%84абе�%80же-628x250.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/images/�%91�%80иллиан�%82-190x250.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/images/�%91�%80иллиан�%82-628x250.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420311476orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420311538orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420311864orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420311869orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420311897orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420311902.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420312110orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/cache/skin.css?ver=1420312195.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/anything_slider_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/code_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/colorbox_border.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/colorbox_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/colorbox_corners.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/colorbox_loading_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/colorbox_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/colorbox_previous.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_magenta.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_rosy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/dropcap_styles_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/feature_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/footer_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/footer_list_divider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/footer_list_style.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/footer_widget_list_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_magenta.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_rosy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/icons_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/image_icon_doc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/image_icon_link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/image_icon_play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/image_icon_zoom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/image_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/input_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/kwick_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/layout_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_gray.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_green.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_magenta.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_orange.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_pink.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_rosy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/list_styles_yellow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/loading_big.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/mini_tabs_border.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/nivo_slider_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/picture_frame.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/quote.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/scroll_top_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/slider_frame.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/slider_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/toggle_buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/images/widget_list_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/custom.js?ver=3.3.2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/jquery.colorbox-min.js?ver=1.3.19" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/jquery.easing.1.3.js?ver=1.3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/jquery.kwicks-1.5.1.pack.js?ver=1.5.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/jquery.tools.tabs.min.js?ver=1.2.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/jqueryslidemenu.js?ver=3.3.2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/themes/striking/js/kwicksSliderInit.js?ver=3.3.2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2012/11/�%84абе�%80же.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2012/11/�%91�%80иллиан�%82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2012/12/1008px-TOPAZE8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2012/12/1348638778_almaz.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2012/12/200526548-001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/01/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/01/bijuterii-stralucire_08_or.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/cartier.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/chanel-eyewear.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/gold-lego.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/gold-nugget.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/jimmy-choo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/lionel_messi.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/mila-kunis.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/saint-laurent.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/tiffany_earrings_tiffany_jewelry_sterling_silver_earrings.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/03/watch.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/04/chopard2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/04/gold-dress.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/06/diamond.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/06/faberge.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/06/jewellery2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/06/tiffany.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/08/louis-vuitton.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/04_00-300x225.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/04_00.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/80802.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/lazer_2-300x93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/lazer_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-10-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-11-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-12-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-13-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-14-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-16-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-17-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-18-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-19-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-2-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-20-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-21-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-22-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-23-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-24-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-25-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-26-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-27-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-28-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-29-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-3-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-30-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-31-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-32-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-34-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-36-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-38-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-6-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-7-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-8-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-9-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2013/09/�%9Eл�%8Cви�%8F_�%86епи-и-б�%80а�%81ле�%82�%8B-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/2-300x217-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/2-300x217.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/Orh_bril.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/cartier-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/cartier.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/diamond-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/04/diamond.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/06/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/07/5365-1920x1200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/07/s5-300x87.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/07/s5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/00c5d410a315-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/00c5d410a315.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/01RN362485-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/01RN362485.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/01С673669-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/01С673669.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/041_094068-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/041_094068.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/11-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/11328001-640x640-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/11328001-640x640.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/123757-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/123757.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1284467828665_hz-cnmyalibaba-web2_2447-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1284467828665_hz-cnmyalibaba-web2_2447.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1314690565_0967.353x450-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1314690565_0967.353x450.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1353160906_sergi-iz-belogo-zolota-s-chernymi-brilliantami-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1353160906_sergi-iz-belogo-zolota-s-chernymi-brilliantami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1357235540_jemchug1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1357235540_jemchug1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/140_shirokoe_koltso_s_tremya_poloskami_i_kamnyami_aaw0028_1352406269-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/140_shirokoe_koltso_s_tremya_poloskami_i_kamnyami_aaw0028_1352406269.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1545-_enl-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1545-_enl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1861439-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/1861439.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/199045_1175105390-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/199045_1175105390.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2005-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2087_500-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2087_500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2106-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2649-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2649.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2657-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2657.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2803-048-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2803-048.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2958469-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2958469.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/29_0-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/29_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ER01S625251-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ER01S625251.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ER65S620221-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ER65S620221.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ER65S670300-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ER65S670300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ERJ1S645417-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/2ERJ1S645417.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/380996140-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/380996140.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/412940-640x640-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/412940-640x640.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/446-2011_07_03_210435-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/446-2011_07_03_210435.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/509826761_296-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/509826761_296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/52393_1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/52393_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/52550dd779b9e-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/52550dd779b9e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/536049-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/536049.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/5433-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/5433.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/559-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/559.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/5b27efe1acacfb4c2a3d88bfcf660595-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/5b27efe1acacfb4c2a3d88bfcf660595.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/882280pm-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/882280pm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/8d5ad424603e127afc970dd0e2-ukrasheniya-pusety-chernyj-belyj-zhemchug-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/8d5ad424603e127afc970dd0e2-ukrasheniya-pusety-chernyj-belyj-zhemchug.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/8dc4cc-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/8dc4cc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/98-5-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/98-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/990001_03-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/990001_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/BDR16020605-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/BDR16020605.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/DETAIL_PICTURE_9003-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/DETAIL_PICTURE_9003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ER702_30-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ER702_30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ER704_50-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ER704_50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ER710_30-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ER710_30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ERJ28643S-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ERJ28643S.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ERP37987BD-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ERP37987BD.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Faberge-Sarafan-Pearl-Ring-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Faberge-Sarafan-Pearl-Ring.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/G4U001-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/G4U001.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Giorgio_Visconti_GVIS39720WG_1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Giorgio_Visconti_GVIS39720WG_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/K-0003-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/K-0003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/KO-MPB1008-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/KO-MPB1008.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Kolco-s-zhemchugom-1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Kolco-s-zhemchugom-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Kolco-s-zhemchugom-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Kolco-s-zhemchugom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/LR2194-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/LR2194.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/OS110PK1057-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/OS110PK1057.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Obruchalnie-kolca-dlja-muzhchin-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Obruchalnie-kolca-dlja-muzhchin.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/R-M2955-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/R-M2955.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/bvlgari-bk024-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/bvlgari-bk024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/bvlgari1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/bvlgari1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/d53ea3488a674131ae0cbafaad7dac84-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/d53ea3488a674131ae0cbafaad7dac84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/damiani_solitarioorobianco.1024x768-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/damiani_solitarioorobianco.1024x768.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/damianissima_-gold_wedding_ring_damiani_20023960-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/damianissima_-gold_wedding_ring_damiani_20023960.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/dfewzx-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/dfewzx.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e004552_01С625106-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e004552_01С625106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e004566_e004566-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e004566_e004566.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e009134_01С376156-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e009134_01С376156.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e01s011203-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e01s011203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e01s081043-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e01s081043.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e021626_01С675743L-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/e021626_01С675743L.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ear146_01-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ear146_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ear201-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ear201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/fossil_jf00443040_2-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/fossil_jf00443040_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/good_346-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/good_346.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/i5416-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/i5416.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/jewb15984-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/jewb15984.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/jewb3184-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/jewb3184.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/jewb3185-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/jewb3185.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/k28002.17-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/k28002.17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolco-belaja-ehmal-iz-rozovogo-zolota-78678-0-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolco-belaja-ehmal-iz-rozovogo-zolota-78678-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolco-s-izumrudom-ili-sinim-sapfirom-ovalnoj-formy-osnovnoj-kamen-dopolnen-obramlenijem-iz-fianitov-pokrytije-belym-zolotom-razmery-16-5-mm-17-35-mm-18-2-mm-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolco-s-izumrudom-ili-sinim-sapfirom-ovalnoj-formy-osnovnoj-kamen-dopolnen-obramlenijem-iz-fianitov-pokrytije-belym-zolotom-razmery-16-5-mm-17-35-mm-18-2-mm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolco_s_sapfirom_i_brilliantami_6_0-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolco_s_sapfirom_i_brilliantami_6_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/koltso-iz-belogo-zolota-s-brilliantami-i-sinimi-sapfirami-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/koltso-iz-belogo-zolota-s-brilliantami-i-sinimi-sapfirami.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolza_349-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/kolza_349.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/misaki2-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/misaki2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/monomakh-12-big-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/monomakh-12-big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/originalnoe-kolco-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/originalnoe-kolco.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/pel1054bdw_zoom-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/pel1054bdw_zoom.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring-6-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring1542photo-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring1542photo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring518photo-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring518photo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring536photo-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/ring536photo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/s0014-8-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/s0014-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/sd0202465-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/sd0202465.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/sergi-iz-belogo-zolota-88217-0-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/sergi-iz-belogo-zolota-88217-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/sergi-s-brilliantami-izobrazhenie-41-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/sergi-s-brilliantami-izobrazhenie-41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/shop_items_catalog_image2160-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/shop_items_catalog_image2160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/shop_items_catalog_image70493-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/shop_items_catalog_image70493.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/svadebnoe_kolco_41-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/svadebnoe_kolco_41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/wedding-rings-9-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/wedding-rings-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/zolotoe_kolco_s_zhemchugom_7-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/zolotoe_kolco_s_zhemchugom_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/zolotye-sergi-s-zhemchugom3-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/zolotye-sergi-s-zhemchugom3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Се�%80�%8Cги-�%81-жем�%87�%83гом8-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/Се�%80�%8Cги-�%81-жем�%87�%83гом8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/об�%80�%83�%87ал�%8Cн�%8Bе-кол�%8C�%86а-и�%81�%82о�%80и�%8F-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/об�%80�%83�%87ал�%8Cн�%8Bе-кол�%8C�%86а-и�%81�%82о�%80и�%8F.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/�%91ол�%8C�%88ое-кол�%8C�%86о-�%91иж�%83�%82е�%80и�%8F-�%9Dа�%81�%82о�%8F�%89ее-�%80озового-золо�%82а-18�%9A-�%9Fок�%80�%8B�%82ие-�%9A�%80а�%81ив�%8Bе-Эмал�%8C-�%91або�%87ка-�%9Aол�%8C�%86�" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uvelirmaster.kiev.ua/wp-content/uploads/2014/11/�%9Dакал�%8F�%8E�%82�%81�%8F-п�%80одажа-�%8Eвели�%80н�%8B�%85-изделий-кол�%8C�%86а-�%81-�%80озовое-золо�%82о-Plt-SWA-�%8Dлемен�%82�%8B-ав�%81�%82�%80ий�%81ки�%85-к�%80и�%81�%82аллов" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/.idea/www.remontzolota.ru.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/addon/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/addon/gadget-color.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/addon/gadget-color.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/addon/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/article/o-kompanii.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/article/preyskurant.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/contacts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/css/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/css/table.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/scripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/scripts/jquery.uploadify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/styles/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/styles/application.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/styles/simplemodal-white.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/styles/simplemodal-white.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/application/styles/uploadify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/catalog/images/center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/catalog/images/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/catalog/images/help_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/catalog/images/help_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/catalog/images/item-photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/catalog/images/rating.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/colorbox/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/contact/icq.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/contact/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/fancybox/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/fancybox/fancy_title_over.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/fancybox/fancybox-x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/fancybox/fancybox-y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/fancybox/fancybox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/footer/login-link-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/footer/login-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/footer/logosmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/header/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/header/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/images/totopicons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/scripts/totop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/styles/sitemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/styles/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/styles/totop.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/common/styles/totop.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/comparison/images/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/comparison/images/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/fields/images/select-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/gallery/images/item-photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/gallery/images/item-popup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/illustration/images/marker-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/illustration/images/marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/includes.min.css?v=1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/includes.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/navi-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/navi-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/path-item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/sort_by.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/sort_by_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/inner/images/sort_by_up_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/orders/images/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/orders/images/delete_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/orders/images/field.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/orders/images/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/vertical_menu/images/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/design_4/vertical_menu/images/li_sub.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/css/font-awesome.min.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/fonts/fontawesome-webfont.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/fonts/fontawesome-webfont.eot?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/fonts/fontawesome-webfont.svg?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/fonts/fontawesome-webfont.ttf?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/jquery-ui/ui/jquery.ui.core.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/jquery-ui/ui/jquery.ui.mouse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/jquery-ui/ui/jquery.ui.sortable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/jquery-ui/ui/jquery.ui.widget.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/dynamic/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/dynamic/styles.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/Diamond2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/back1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/back10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/back2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/banner_div.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/diamond.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/diamond.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/edits.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/files.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/images/modal-window-close-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/js/jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/js/jquery.arctext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/js/spin.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/chistka-yuvelirnyih-izdeliy.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/izgotovlenie-pod-zakaz.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/lazernaya-payka.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/prodazha-yuvelirnoy-kosmetiki.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/remont-chasov.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/remont-ochkovyih-oprav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/remont-tsepochek.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/rodirovanie.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product/uvelichenie-kolets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/sitemap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/chistka_yuvelirnyh_izdeliy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/Yuvelirnaya-masterskaya-v-Ekaterinburge.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/lazernaya-pajka.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/piccootev.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/yuvelirnaya-kosmetika.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/image/yuvelirnye-izdeliya-na-zakaz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/news/6/100x56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/news/6/200x112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/10/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/11/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/12/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/13/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/3/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/5/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/6/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/7/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/8/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/product_category/9/68x68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/remont_cepochek(2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/remont_chasov.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/remont_ochkov.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/rodirovanie(1).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/shapka.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/uploads/uvelichenie_kolec(3).jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/www.remontzolota.ru/product.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="`">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/services.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/base.css" afterPath="$PROJECT_DIR$/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uvelir_ltd_ua.iws" />
@@ -730,10 +26,57 @@
   <component name="FavoritesManager">
     <favorites_list name="uvelir_ltd_ua" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/services.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="14805">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/main.html" />
+        <option value="$PROJECT_DIR$/css/services.css" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="49" />
@@ -750,7 +93,7 @@
     <OptionsSetting value="true" id="Edit" />
     <OptionsSetting value="true" id="Undo Check Out" />
     <OptionsSetting value="true" id="Get Latest Version" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -788,6 +131,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uvelir_ltd_ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uvelir_ltd_ua" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -801,6 +158,11 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1031,12 +393,12 @@
       <changelist id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="" />
       <created>1421005103752</created>
       <updated>1421005103752</updated>
-      <workItem from="1421005108285" duration="360000" />
+      <workItem from="1421005108285" duration="1419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="360000" />
+    <option name="totallyTimeSpent" value="1419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-3" width="1391" height="903" extended-state="6" />
@@ -1055,13 +417,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47380674" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25261933" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1092,6 +454,48 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="14805">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/services.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31484503" vertical-offset="983" max-vertical-offset="1596">
+          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2055465" vertical-offset="0" max-vertical-offset="613">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="609">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 
