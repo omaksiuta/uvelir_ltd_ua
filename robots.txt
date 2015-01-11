@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /basket
+Disallow: /login
+Disallow: *sort_by
+
+User-agent: Yandex
+Disallow: /basket
+Disallow: /login
+Disallow: *sort_by
+Host: a816.itpanda.ru
+
+Sitemap: http://a816.itpanda.ru/sitemap.xml

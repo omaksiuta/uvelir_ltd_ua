@@ -1,0 +1,22 @@
+#simplemodal-overlay {background-color:#000;}
+#simplemodal-container {background-color:#fff; border:none; padding:20px 66px;}
+#popupcontainer .panda-form-label-text {padding: 10px 0 5px;}
+/*#popupcontainer .panda-form-submit {margin: auto;}*/
+#popupcontainer .h1, #popupcontainer h1 {text-align: center;}
+#popupcontainer .panda-submit-message-modal {text-align: center; font-size: 18px;}
+#popupcontainer .panda-form-window {max-height:310px; overflow: auto; margin: 15px 0 25px 0;  padding: 1px 10px 1px 1px;}
+.simplemodal-close{
+	background: url("/images/modal-window-close-button.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    display: block;
+    height: 42px;
+    position: absolute;
+    right: -24px;
+    text-decoration: none;
+    top: -19px;
+    width: 42px;
+}
+#popupcontainer .panda-form-error { width: auto !important; }
+#popupcontainer .h2 {line-height: 25px !important;}
+#popupcontainer .panda-form-capcha-container { padding-bottom: 15px;}
+#popupcontainer .panda-form-capcha-container .panda-form-error {overflow: visible !important;}

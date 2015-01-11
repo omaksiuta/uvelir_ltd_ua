@@ -1,0 +1,632 @@
+.panda-logo {
+    margin: 0px auto -30px 0px;
+    padding-bottom: 55px;
+    padding-top: 22px;
+    text-align: left;
+}
+
+.panda-header {
+    background: url(http://www.uvelir.ltd.ua/addon/header.jpg) no-repeat center top transparent !important;
+}
+
+body {
+    background: url(bg.jpg) center top !important;
+}
+
+.panda-search-field-wrapper {
+    width: 179px;
+}
+
+.panda-login__header {
+    left: 28px !important;
+    top: 229px !important;
+}
+
+.panda-search__header {
+    left: 374px;
+    margin-left: 0px;
+    top: 56px;
+    width: 222px;
+}
+
+.panda-contact {
+    color: #000000;
+    margin-right: 0px;
+    position: absolute;
+    text-align: left;
+    top: 34px;
+    width: 260px;
+}
+
+.panda-contact a {
+    color: #843441;
+    text-decoration: none !important;
+    border-bottom: 0px !important;
+}
+
+.panda-contact a:hover {
+    color: #843441;
+    text-decoration: none;
+}
+
+.panda-mini-ico__home {
+    background-position: 0px -85px;
+    display: none;
+}
+
+.panda-mini-ico__map {
+    background-position: -22px -85px;
+    display: none;
+}
+
+.panda-mini-ico__mail {
+    background-position: -44px -85px;
+    display: none;
+}
+
+/*.panda-gadget__item a {
+color: #000000 !important;
+text-decoration: none;
+}*/
+.panda-gadget__inner {
+    border-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.panda-border-bottom {
+    border-top: 0px;
+}
+
+/*�������� ����� ��������������� ����*/
+.panda-menu__horizontal-header-submenu li a:hover ins, .panda-menu__horizontal-header-item span ins, .panda-menu__horizontal-header-submenu li span ins {
+    color: #fff;
+    /*font-weight:bold;
+    font-size: 1.1em;*/
+}
+
+/*���� ������ ���� ��� ���������*/
+.panda-menu__horizontal-header-item a:hover ins, .panda-menu-item__active a, .panda-menu-item__active span {
+    color: #fff;
+}
+
+/*���� "��������" � �������������� ���� ��� ��������� ��������/����������� ������ ����*/
+.panda-menu-horizontal-header__active-bramch {
+    color: #fff !important;
+}
+
+.h1 a {
+    border-bottom: 0px;
+    color: #000000 !important;
+    text-decoration: none;
+}
+
+/*--------------------------------------------------------------------------------------------------------*/
+/*--------------------��������---------------------------*/
+.panda-main {
+    border: 0px;
+    border-radius: 7px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+    /*margin-bottom: 140px; */
+    padding: 0px;
+    min-height: 630px;
+    /*min-width: 1150px;*/
+    padding-bottom: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------*/
+/*���� ���� ������� � ������� ��������*/
+.panda-news-filter-item span {
+    background: #e9e9e9 !important;
+    background: -moz-linear-gradient(top, #e9e9e9, #e1e1e1) !important;
+    background: -webkit-gradient(linear, left top, left bottom,
+    color-stop(0%, #e9e9e9), color-stop(100%, #e1e1e1)) !important;
+    background: -webkit-linear-gradient(top, #e9e9e9, #e1e1e1) !important;
+    background: -o-linear-gradient(top, #e9e9e9, #e1e1e1) !important;
+    background: -ms-linear-gradient(top, #e9e9e9, #e1e1e1) !important;
+    background: linear-gradient(top, #e9e9e9, #e1e1e1) !important;
+    color: #000000;
+    border-radius: 5px;
+    -moz-border-radius: 5px; /* Firefox */
+    -webkit-border-radius: 5px; /* Safari, Chrome */
+    -khtml-border-radius: 5px; /* KHTML */
+}
+
+/*------------------------------------------------------------------------------------------ ����� ����*/
+/*�������� ������� "�������" � ����� ����*/
+.panda-menu__vertical-main .h1 {
+    /*display: none;*/
+    margin: 0px 0px 10px;
+}
+
+h1, .h1 {
+    font-family: "Verdana", "Helvetica", sans-serif;
+    font-size: 25px;
+    margin: 15px 0px 10px;
+}
+
+/*���� ������ ������ ���� ��� ���������*/
+/*.panda-menu__vertical-main li a:hover span, .panda-menu__vertical-main li a:hover ins span { 
+color: #1890cf !important;
+}*/
+/*���� �������� ��������� ��� �� �������� ������������ � ����� ����*/
+span.panda-menu__vertical-main-item-link.panda-menu__vertical-main-item-link-active ins span {
+    color: #1890cf;
+    font-weight: bold;
+}
+
+/*���� �������� ��������� ��� �������� ������������ � ����� ����*/
+.panda-menu__vertical-main-item-link.panda-menu__vertical-main-item-link-active-branch ins a span {
+    color: #1890cf !important;
+    font-weight: bold;
+}
+
+/*���� �������� ������������ � ����� ����*/
+.panda-menu__vertical-main-submenu-item.panda-menu__vertical-main-item-current span.panda-menu__vertical-main-item-link-active {
+    color: #1890cf !important;
+    font-weight: bold;
+}
+
+/*------------------------------------------------------------------------------------------ ����� ����*/
+
+/*������ ��� �������� "�������" ��� ����� ����*/
+h3, .h3 {
+    margin-top: 20px;
+}
+
+/*������ � ����*/
+.panda-menu__horizontal-header-item-text ins {
+    /*font-family: sans-serif !important;*/
+    font-size: 10pt;
+    font-weight: bold;
+    /*padding-left: 10px;
+    padding-right: 10px;*/
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    /*color: #fff;*/
+    /*���� ������� �������� ���� �� ��������� ����*/
+}
+
+/*���� ���� �������*/
+.panda-menu__horizontal-header {
+    border-bottom: 0px;
+    padding-left: 0px;
+    /*font-family: sans-serif;
+    font-weight: bold;*/
+    background: black;
+}
+
+.panda-menu__horizontal-header-item span ins, .panda-menu__horizontal-header a:hover {
+    background: darkred;
+    color: #FFFFFF !important; /*���� ������ � �������� ������ ����*/
+}
+
+/*���� ������ � ������� ����. �� ������� ������*/
+.panda-menu__horizontal-header-item a {
+    color: #ffffff;
+    border-bottom: 0px;
+}
+
+/*������ ������ ��� ������*/
+.panda-article {
+    padding-right: 20px;
+}
+
+/*������� ��� ����� ��������/�������*/
+.panda-news-filter {
+    margin: 5px 0px 10px 0px;
+    border-bottom: 0px;
+}
+
+/*������ ��� �������� ��������*/
+.panda-path {
+    padding: 10px 0px;
+}
+
+/* ������ ��� ������ ��� ����� ����*/
+.panda-menu__vertical-main {
+    border-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+/*������� �������� �������� ��� ����� ���� � ��������� �������� �������� ��� ����*/
+/*.panda-grid__6 .h1 { 
+display: none;
+margin: 5px 0px;
+}*/
+
+/*������� ������� "������" � ��������*/
+.panda-elements__margin-top-10 {
+    display: none;
+}
+
+/*������ ���������� ������� ��� ���� CMS4*/
+.panda-menu-border-bottom {
+    border-bottom: 0px solid #FFFFFF;
+}
+
+/*������ �� �������� �� ������. ���� 150. CMS4.*/
+.panda-wrapper__main {
+    padding-bottom: 1px;
+}
+
+/*����� ----------------------------------------------------------------------------------------------------------*/
+/*������� ��� ������ CMS4* � *���� ��������� � ������*/
+.panda-footer {
+    padding-bottom: 20px !important;
+    padding-top: 15px;
+    color: #fff;
+    min-height: 80px;
+}
+
+/*���� ���� � ������*/
+.panda-footer-menu a {
+    color: #FFFFFF;
+}
+
+/*���� ���� � ������*/
+.panda-footer-menu a:hover {
+    color: #fff;
+}
+
+.panda-footer-menu {
+    width: 980px; /*������ ������������ ���� � ������*/
+    color: #fff; /*���� ��������� ������ ���� � ������*/
+}
+
+.panda_copy, .panda-footer-menu {
+    padding-left: 10px;
+}
+
+.panda_copy {
+    font-size: 14px;
+}
+
+.panda-block__dynamic-width {
+    min-width: 1150px;
+    padding: 0px 0px;
+}
+
+.panda-menu__horizontal-header-item {
+    margin-right: 10px;
+    padding-left: 10px;
+}
+
+.panda-menu__horizontal-header-item {
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+
+.panda-wrapper__footer {
+    background-color: black;
+    border-top: 0px solid black;
+    padding-top: 12px;
+    min-height: 115px;
+    min-width: 1150px;
+}
+
+.panda-wrapper__footer a {
+    color: #fff;
+}
+
+.h2, h2 {
+    margin-bottom: 10px !important;
+}
+
+/*�������*/
+.panda-basket__header {
+    border-radius: 7px 0px 0px 7px;
+    border-bottom: 0px;
+    background: #2591d2; /* ��� ������ �������� */
+    background: -moz-linear-gradient(top, #2591d2, #1b70a6); /* Firefox 3.6+ */
+    /* Chrome 1-9, Safari 4-5 */
+    background: -webkit-gradient(linear, left top, left bottom,
+    color-stop(0%, #2591d2), color-stop(100%, #1b70a6));
+    /* Chrome 10+, Safari 5.1+ */
+    background: -webkit-linear-gradient(top, #2591d2, #1b70a6);
+    background: -o-linear-gradient(top, #2591d2, #1b70a6); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #2591d2, #1b70a6); /* IE10 */
+    background: linear-gradient(top, #2591d2, #1b70a6); /* CSS3 */
+    top: 47px;
+}
+
+.panda-basket__header-status {
+    background: url("http://a2581.clouditp.ru/designs/design_4/common/images/header/cart.png") -4px -214px no-repeat transparent;
+    color: #ffffff;
+    padding-left: 23px;
+}
+
+.panda-basket__header-container .panda-btn {
+    margin-top: 4px;
+}
+
+.panda-basket__header h1, .panda-basket__header .h1 {
+    color: #000000;
+    margin: 0px 0px 4px;
+}
+
+.panda-basket__header-status a, .panda-basket__header-status a:hover {
+    color: #000000;
+}
+
+.panda-basket__header-container .panda-basket__header-end-price {
+    display: none;
+}
+
+.panda-basket__header-container .panda-btn span {
+    background: #b64da1;
+    color: #ffffff;
+    display: block;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.panda-basket__header-container .panda-btn:hover span {
+    background: #b64da1;
+}
+
+/*������� end*/
+
+/*��� ����������� ���� �������*/
+.panda-link-bg-color, .panda-link-bg-color-hover:hover {
+    background: #B7B7B7;
+}
+
+/*������ ����������� ����*/
+.panda-select-popup {
+    margin-top: 27px;
+    border-radius: 0px 0px 7px 7px;
+}
+
+.panda-filter-popup-buttons {
+    height: 27px;
+}
+
+.panda-btn span {
+    color: #FFFFFF;
+}
+
+.panda-search-submit-wrapper .panda-links__submit {
+    background-color: #1691CF !important;
+}
+
+.panda-contacts__footer {
+    top: 0px;
+}
+
+.panda-login-link {
+    top: 1px;
+}
+
+p {
+    font-size: 14px;
+}
+
+.panda-separator {
+    margin: 10px 0px 7px;
+}
+
+.panda-orders-table td {
+    border-bottom: 1px dashed #B6B6B7;
+}
+
+.panda-menu__vertical-main-item-link span,
+.panda-menu__vertical-main-item-current ins {
+    font-size: 15px;
+}
+
+.panda-menu__vertical-main-submenu-item span,
+.panda-menu__vertical-main-submenu-item a span {
+    font-size: 14px;
+}
+
+.panda-catalog-product-list-item-name {
+    font-size: 15px !important;
+}
+
+.panda-category-list-small .panda-catalog-product-list-item-name {
+    font-size: 15px !important;
+}
+
+/*������ ������ �������������� ���� ���, ����� ������, ��� �������*/
+/*.panda-block-text-zone__link-edit {
+display: none;
+}
+.panda-clickzone__footer .panda-block-text-zone__link-edit {
+display: block;
+}*/
+/* end ������ ������ �������������� ���� ���*/
+
+.panda-article td {
+    font-size: 14px;
+}
+
+.panda-article ul li, .panda-gadget-text ul li {
+    font-size: 14px;
+}
+
+td.panda-catalog-product-item__characteristic-value {
+    width: 200px;
+}
+
+/*.panda-menu__horizontal-header-item a[href="/gallery"] {
+display: none;
+}*/
+
+td.panda-catalog-product-list-item-button {
+    padding-right: 10px;
+}
+
+.panda-reviews-item,
+.panda-reviews-item-avtor {
+    color: #000000;
+}
+
+.panda-reviews-item-avtor span {
+    color: #000000;
+    font-style: normal;
+}
+
+.panda-gadget-catalog-list {
+    padding-right: 15px;
+}
+
+.panda-footer-menu, .panda-footer-menu a, .panda-footer-menu a:hover, .panda_copy, .panda_copy a {
+    color: #000000;
+}
+
+.panda-gadget-catalog-item-photo {
+    background: transparent;
+}
+
+.panda-gadget-catalog-item-photo img {
+    border: 0px;
+}
+
+.panda-category-list-small .panda-gadget-catalog-item-photo {
+    border-bottom: 0px;
+}
+
+.panda-contact,
+h1, h2, h3, .h1, .h2, .h3, .panda-kartochka > h1, .panda-kartochka h2,
+.panda-kartochka .panda-secondary-font,
+.panda-catalog-product-item__characteristic td,
+.panda-menu__horizontal-header-item,
+td.panda-orders-table-price,
+.panda-orders-table td,
+.panda-article td {
+    font-family: "Arial";
+}
+
+.panda-orders-table-price-full {
+    font-size: 20px;
+}
+
+.panda-kartochka .panda-catalog-product-item-photos-selected {
+    border: 0px !important;
+}
+
+td.panda-orders-table-photo a:hover {
+    border: 0px !important;
+}
+
+td.panda-orders-table-photo a:hover {
+    outline: 1px solid #C5C5C5 !important;
+}
+
+.panda-basket__header-container .panda-basket__header-price,
+.panda-basket__header-container .panda-basket__header-col {
+    color: #000000;
+}
+
+/*������������� � ������ �������� �����*/
+a.panda-btn {
+    text-decoration: none;
+}
+
+/*���� ������ � ������*/
+.panda-footer-menu,
+.panda-footer-menu a:hover,
+.panda-footer-menu a,
+.panda_copy,
+.panda_copy p,
+.panda-wrapper__footer a,
+.panda-wrapper__footer a:hover {
+    color: #ffffff !important;
+}
+
+/*���� ������� � �������*/
+.panda-gadget-news dd {
+    background: -moz-linear-gradient(top, #e9e9e9, #e1e1e1); /* Firefox 3.6+ */
+    /* Chrome 1-9, Safari 4-5 */
+    background: -webkit-gradient(linear, left top, left bottom,
+    color-stop(0%, #e9e9e9), color-stop(100%, #e1e1e1));
+    /* Chrome 10+, Safari 5.1+ */
+    background: -webkit-linear-gradient(top, #e9e9e9, #e1e1e1);
+    background: -o-linear-gradient(top, #e9e9e9, #e1e1e1); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #e9e9e9, #e1e1e1); /* IE10 */
+    background: linear-gradient(top, #e9e9e9, #e1e1e1); /* CSS3 */
+    height: 16px;
+    padding: 0px 5px 0px;
+    font-size: 11px;
+}
+
+.panda-gadget-news dl dd {
+    border-radius: 5px;
+    color: #000000;
+}
+
+.panda-catalog-product-list h1 {
+    margin-right: 0px;
+}
+
+/*������������ ������������� � �������� ������*/
+td.panda-catalog-product-item__characteristic-value {
+    vertical-align: middle;
+}
+
+.panda-illustration-marks {
+    left: auto !important;
+    right: 7px !important;
+    top: 7px !important;
+}
+
+.panda-gadget-catalog-item-photo a {
+    text-align: center !important;
+}
+
+.panda-menu__horizontal-header-item-text ins {
+    height: 40px;
+    line-height: 40px;
+}
+
+.panda-menu__horizontal-header-item {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.panda-menu__horizontal-header-item {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.panda-menu-border-bottom {
+    display: none;
+}
+
+.panda-menu__horizontal-header-item span ins, .panda-menu__horizontal-header a:hover {
+    border-radius: 0px;
+}
+
+.text_on_illustration {
+    color: #575757;
+}
+
+.text_on_illustration p {
+    font-family: "times new roman";
+    font-size: 35px;
+    line-height: 45px;
+}
+
+.panda-grid__12 {
+    padding: 0px;
+}
+
+#gadget_view_21 {
+    width: 860px;
+    margin-top: -9px;
+}
+
+#gadget_view_20 .panda-input {
+    max-width: 235px !important;
+}
+
+.panda-menu__vertical-main-item-link {
+    background: url(li.png) 0px 6px no-repeat transparent;
+}
+
+/*.prais tr:first-child {
+color: #ffffff;
+background: darkred;
+}*/

@@ -1,0 +1,335 @@
+.application-gadget{
+	width:99%;
+}
+
+.panda-application {
+    clear: right;
+		position:relative;
+}
+
+.application-show-table {
+	width: 100%;
+	margin: 22px 0 22px 0;
+}
+
+.application-show-table td{
+	padding: 10px;
+	text-align: left;
+	vertical-align: middle;
+	border: 0 !important;
+}
+
+/*a {
+	text-decoration: none !important;
+}*/
+
+img.del {
+	background: url(../../../../images/edits.gif) no-repeat 0 -160px;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+	height: 11px;
+	width: 11px;
+}
+
+.application-field-sort-list li {
+	list-style-type: none !important;
+	background-image: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.application-field-item img {
+	margin: 0;
+	padding: 0;
+}
+
+img.move {
+	margin: 0 10px 0 10px;
+	cursor: move;
+}
+
+li.application-field-item {
+	padding: 10px !important;
+	position: relative;
+	border-bottom: 1px solid #778899 !important;
+}
+
+.application-field-item-control {
+	position: absolute;
+	top: 5px;
+	right: 0;
+}
+
+.application-field-sort-list {
+	border-top: 1px solid #778899 !important;
+}
+
+.application-field-item-requidarkred {
+	display: none;
+}
+
+.application-field-input {
+	width: 323px !important;
+}
+
+.application-field-title {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.application-field-content .application-field-textarea {
+	/*width: 404px;*/
+	width:90%;
+}
+
+.application-field-textarea {
+	width: 489px;
+    height: 120px;
+}
+
+.application-field-description {
+	text-align: justify;
+	margin-bottom: 10px;
+}
+
+.application-field-label {
+	height: 100%;
+	float: none;
+	font-size: 12px;
+	line-height: 150%;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+	margin-top:5px;
+}
+
+/*input.application-captcha.application-field[type="text"]{
+	width: 148px;
+}*/
+.application-field-content {
+    overflow: hidden;
+	height: 100%;
+}
+
+/*.application-field-content img {
+	padding: 10px 10px 10px 0;
+}
+*/
+.application-field-content input[type=text] {
+	margin: 0;
+	padding: 0;
+	width: 404px;
+}
+
+.application-field-content textarea {
+	margin: 0;
+	padding: 0;
+}
+
+.application-subm-btn {
+	float: left;
+	margin-top: 10px;
+}
+
+.panda-btn.application-submit span{
+	width:130px;
+	
+}
+
+.application-error {
+	display: block;
+	padding: 5px 0 0 0;
+	color: #d10202;
+}
+
+.application-captcha {
+	margin: 0;
+	display: block;
+}
+
+.captcha_update{
+	position: relative;
+	top: -45px;
+	left: 0px;
+	cursor: pointer;
+}
+.panda-grid__4 .captcha_update{
+	top:-10px;
+	left:0;
+	display:block;
+}
+
+.attach_file td {
+	height: 40px;
+	border: 0 !important;
+	padding: 0;
+	margin: 0;
+}
+
+.add_field {
+	margin: 13px;
+	display: block;
+}
+
+.application-submit {
+	margin: 0;
+}
+
+.application-gadget p {
+	margin-bottom: 10px;
+}
+
+.application-gadget textarea, .application-gadget input[type="text"] {
+	width: 80%;
+}
+.panda-input__width-90 .application-gadget input[type="text"] {
+	width: 100%;
+}
+
+.application-gadget label {
+	display: block;
+}
+
+#gadget_captcha {
+	display: block;
+}
+
+
+/*.column1 .application-gadget .application-field-label{
+	height: 100%;
+	float: none;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+}
+
+.column2 .application-gadget .application-field-label{
+	height: 100%;
+	width: 300px;
+	float: none;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+}
+
+.column3 .application-gadget .application-field-label, .column4 .application-gadget .application-field-label{
+	height: 100%;
+	width: 250px;
+	float: left;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+	margin: 0px 0 10px 0;
+}
+
+.column3 .application-field-content, .column4 .application-field-content  {
+	margin: 0 0 15px 250px;
+	height: 100%;
+    min-width: 80%;
+}
+
+.column3 .application-field-content input[type=text], .column3 .application-field-content textarea, .column4 .application-field-content input[type=text], .column4 .application-field-content textarea {
+	margin: 0px 0 10px 0 !important;
+	width: 80%;
+}*/
+
+.application-form {
+    overflow: hidden;
+    height: 100%;
+}
+
+.checkbox_list label {
+    display: inline;
+}
+
+.checkbox_list li {
+    list-style-type: none !important;
+    background-image: none !important;
+    margin: 0 !important;
+    padding: 3px 0 !important;
+}
+
+.gt-col .application-subm-btn {
+    margin: 0;
+}
+
+.choice-many {
+	float: left;
+	padding: 0 5px 0 0;
+	width: 48%;
+	margin-bottom:0px !important;
+}
+
+.column .choice-many{
+	width: 99%;
+}
+
+.column3 .choice-many,.column7 .choice-many{
+	width: 49%;
+}
+
+.column1 .choice-many,.column9 .choice-many{
+	width: 32%;
+}
+/*.panda-grid__4 .choice-many, .column10 .choice-many{
+	float: none;
+	width: 90%;
+}*/
+
+.uploadifyQueue .cancel {
+	position: relative;
+	top: -10px;
+}
+
+
+a.application-simple-file-label {
+	color: #696969;
+	font-size: 90%;
+	border-bottom: 1px dashed #696969;
+	cursor: pointer;
+}
+
+.panda-application .panda-service-zone {
+	top:5px;
+}
+
+.panda-application > h1{
+	padding-right:150px;
+}
+
+.panda-form .fa {
+	position: absolute;
+	padding-top: 2px;
+}
+
+.panda-form .fa-select {
+    padding-top: 7px;
+    padding-left: 8px;
+    color: #707070;
+}
+
+.panda-form .fa-select-ajax {
+    padding-top: 4px;
+    padding-left: 8px;
+    color: #707070;
+}
+
+.application-form input, .application-form textarea {
+	padding-left: 18px !important;
+}
+
+.application-form select {
+    padding-left: 22px !important;
+}
+
+.panda-form .panda-input, .panda-form .panda-textarea {
+	padding-right: 18px !important;
+}
+
+.panda-application .panda-form .panda-form-label-text {
+	padding-top: 5px !important;
+}
+
+.panda-application .panda-form td {
+	padding-bottom: 15px;
+}

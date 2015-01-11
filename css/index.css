@@ -1,0 +1,70 @@
+﻿html
+{
+    background-color: #f5f5f5;
+}
+
+section {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+
+}
+#iFrameSection
+{
+    min-height: 400px;
+}
+
+header {
+    /*background-color: black;*/
+    /*min-height: 150px;*/
+}
+
+footer {
+    color: white;
+    /*background-color: black;*/
+
+}
+
+.phoneTop {
+    /*padding-top: 10px;*/
+    font-size: 150%;
+}
+
+.phoneBottom {
+    font-size: 100%;
+}
+
+.footerLink {
+    color: white;
+    margin: 5px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+.headerLink {
+    /*margin: 5px;*/
+    padding: 0px;
+    text-decoration: none;
+}
+
+.footerLink:hover, .headerLink:hover {
+    color: darkred;
+    /*font-weight: bold;*/
+}
+
+.logotext {
+    vertical-align: top;
+    font-family: times, Times New Roman, times-roman, georgia, serif;
+    font-size: 65px;
+    text-transform: capitalize;
+    color: white;
+    display: inline-block;
+}
+
+.topContacts {
+    height: 60px;
+    min-width: 200px;
+    display: inline-block;
+    color: darkred;
+    /*border: 2px solid blue;*/
+}

@@ -1,0 +1,61 @@
+#totopscroller {
+	position: fixed;
+	right: 30px;
+	bottom: 30px;
+	width: 40px;
+}
+#totopscroller div{
+	width: 40px;
+	height: 40px;
+	position: relative;
+}
+
+#totopscroller a {
+	display:none;
+	background: url('../images/totopicons.png');
+	width: 40px;
+	height: 40px;
+	display:block;
+	text-decoration: none;
+	border: medium none;
+	margin: 0 0 -1px;
+	border: 1px solid #949494;
+}
+
+.panda-totopscroller-top {
+	background-position: 0 0 !important;
+}
+
+.panda-totopscroller-lnk {
+	background-position: 0 -40px !important;
+}
+
+.panda-totopscroller-prev {
+	background-position: 0 -120px !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.panda-totopscroller-bottom {
+	background-position: 0 -80px !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.panda-totopscroller-top:hover {
+	background-position: -40px 0 !important;
+}
+
+.panda-totopscroller-lnk:hover {
+	background-position: -40px -40px !important;
+}
+
+.panda-totopscroller-prev:hover {
+	background-position: -40px -120px !important;
+}
+
+.panda-totopscroller-bottom:hover {
+	background-position: -40px -80px !important;
+}
