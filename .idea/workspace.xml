@@ -2,26 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/article/o-kompanii.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/iFrameHeight.js" afterPath="$PROJECT_DIR$/js/iFrame.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/chistka-yuvelirnyih-izdeliy.html" afterPath="$PROJECT_DIR$/product/chistka-yuvelirnyih-izdeliy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts.html" afterPath="$PROJECT_DIR$/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/izgotovlenie-pod-zakaz.html" afterPath="$PROJECT_DIR$/product/izgotovlenie-pod-zakaz.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/lazernaya-payka.html" afterPath="$PROJECT_DIR$/product/lazernaya-payka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/article/preyskurant.html" afterPath="$PROJECT_DIR$/article/preyskurant.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/prodazha-yuvelirnoy-kosmetiki.html" afterPath="$PROJECT_DIR$/product/prodazha-yuvelirnoy-kosmetiki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/remont-chasov.html" afterPath="$PROJECT_DIR$/product/remont-chasov.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/remont-ochkovyih-oprav.html" afterPath="$PROJECT_DIR$/product/remont-ochkovyih-oprav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/remont-tsepochek.html" afterPath="$PROJECT_DIR$/product/remont-tsepochek.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/rodirovanie.html" afterPath="$PROJECT_DIR$/product/rodirovanie.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.html" afterPath="$PROJECT_DIR$/sitemap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/product/uvelichenie-kolets.html" afterPath="$PROJECT_DIR$/product/uvelichenie-kolets.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uvelir_ltd_ua.iws" />
@@ -454,17 +434,21 @@
       <changelist id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="" />
       <created>1421005103752</created>
       <updated>1421005103752</updated>
-      <workItem from="1421005108285" duration="6140000" />
+      <workItem from="1421005108285" duration="6163000" />
     </task>
     <task id="LOCAL-00001" summary="changes of css base">
       <created>1421006543397</created>
       <updated>1421006543397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created redirect and cleaned some pages">
+      <created>1421015470746</created>
+      <updated>1421015470746</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6140000" />
+    <option name="totallyTimeSpent" value="6163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-3" width="1391" height="903" extended-state="6" />
@@ -490,7 +474,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18044572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18044572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -517,7 +501,8 @@
     </option>
     <MESSAGE value="recreated idea" />
     <MESSAGE value="changes of css base" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes of css base" />
+    <MESSAGE value="Created redirect and cleaned some pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created redirect and cleaned some pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
