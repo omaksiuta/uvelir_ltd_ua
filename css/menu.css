@@ -1,7 +1,7 @@
 ﻿/*Strip the ul of padding and list styling*/
 ul {
     background-color: black;
-    min-width: 880px;
+    min-width: 480px;
     display: inline-block;
     list-style-type: none;
     margin: 0;
@@ -36,7 +36,7 @@ li:hover a {
 
 /*Style for dropdown links*/
 li:hover ul a {
-    background: greenyellow;
+    /*background: greenyellow;*/
 }
 
 /*Hover state for dropdown links*/

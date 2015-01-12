@@ -9,8 +9,13 @@ section {
     text-align: center;
 
 }
+section iframe{
+
+    /*border: 15px solid white;*/
+}
 #iFrameSection
 {
+    border: 0px;
     min-height: 400px;
 }
 
