@@ -1,33 +1,36 @@
-﻿html
-{
+﻿html {
     background-color: #000000;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 640px;
+    max-width: 900px;
 }
 
-section {
-    padding-top: 0px;
-    padding-bottom: 0px;
+body{
+
     text-align: center;
 
 }
-section iframe{
-    /*min-height: 500px;*/
-
-    /*border: 15px solid white;*/
+section {
+    text-align: center;
 }
-#iFrameSection
-{
-    border: 0px;
-    min-height: 400px;
+
+section iframe {
+    width: 100%;
+    /*min-height: 480px;*/
+    /*height: 600px;*/
+    /*border: 5px solid white;*/
+}
+
+#iFrameSection {
 }
 
 header {
-    /*background-color: black;*/
-    /*min-height: 150px;*/
 }
 
 footer {
     color: white;
-    /*background-color: black;*/
 
 }
 

@@ -10,5 +10,4 @@ function redirectIfNotInIframe() {
 //        top.location.href="index.htm?url="+self.location.href;
         self.frames["iframe_all"].location.href = currentPagePath;
     }
-
 }
