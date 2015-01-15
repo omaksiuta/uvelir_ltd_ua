@@ -3,9 +3,10 @@
  */
 $(function () {
     var iFrames = $('iframe');
+
     function iResize() {
         for (var i = 0, j = iFrames.length; i < j; i++) {
-            iFrames[i].style.height = iFrames[i].contentWindow.document.body.offsetHeight + 'px';
+            iFrames[i].style.height = iFrames[i].contentWindow.document.body.offsetHeight + 20 + 'px';
         }
     }
 
@@ -29,7 +30,7 @@ $(function () {
 
     } else {
         iFrames.load(function () {
-            this.style.height = this.contentWindow.document.body.offsetHeight + 'px';
+            this.style.height = this.contentWindow.document.body.offsetHeight + 20 + 'px';
         });
     }
 
