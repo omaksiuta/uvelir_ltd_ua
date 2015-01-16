@@ -7,11 +7,12 @@
     max-width: 900px;
 }
 
-body{
+body {
 
     text-align: center;
 
 }
+
 section {
     text-align: center;
 }
@@ -76,4 +77,19 @@ footer {
     display: inline-block;
     color: darkred;
     /*border: 2px solid blue;*/
+}
+
+.shareItLinks {
+    display: inline-block;
+    /*width: 24px;*/
+    /*height: 24px;*/
+    margin: 10px;
+    padding: 0;
+    outline: none;
+    /*background: url(http://www.gold-rem.ru/share42/icons.png) -24px 0 no-repeat*/
+}
+
+.shareItLinks a img {
+    width: 30px;
+    height: 30px;
 }
