@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.html" afterPath="$PROJECT_DIR$/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/menu.css" afterPath="$PROJECT_DIR$/css/menu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uvelir_ltd_ua.iws" />
@@ -452,7 +447,7 @@
       <workItem from="1421348182458" duration="11110000" />
       <workItem from="1421437679377" duration="7674000" />
       <workItem from="1421694054784" duration="4134000" />
-      <workItem from="1421785363171" duration="4177000" />
+      <workItem from="1421785363171" duration="4202000" />
     </task>
     <task id="LOCAL-00001" summary="changes of css base">
       <created>1421006543397</created>
@@ -490,11 +485,15 @@
       <created>1421785503554</created>
       <updated>1421785503554</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="normilized menu">
+      <created>1421789563929</created>
+      <updated>1421789563929</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48304000" />
+    <option name="totallyTimeSpent" value="48329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="18" width="1391" height="882" extended-state="6" />
@@ -505,7 +504,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21236873" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21236873" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -555,7 +554,8 @@
     <MESSAGE value="created links" />
     <MESSAGE value="added image to about" />
     <MESSAGE value="add sub-menu" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sub-menu" />
+    <MESSAGE value="normilized menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="normilized menu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
