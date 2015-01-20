@@ -1,7 +1,7 @@
 ﻿/*Strip the ul of padding and list styling*/
 ul {
     background-color: black;
-    min-width: 480px;
+    /*min-width: 480px;*/
     display: inline-block;
     list-style-type: none;
     margin: 0;

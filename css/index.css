@@ -25,6 +25,7 @@ section iframe {
 }
 
 #iFrameSection {
+
 }
 
 header {
@@ -62,13 +63,20 @@ footer {
     /*font-weight: bold;*/
 }
 
-.logotext {
+.logo {
     vertical-align: top;
     font-family: times, Times New Roman, times-roman, georgia, serif;
-    font-size: 65px;
-    text-transform: capitalize;
     color: white;
     display: inline-block;
+}
+
+.logotext {
+    font-size: 65px;
+    text-transform: capitalize;
+}
+.logoDescription {
+    font-size: 19px;
+    text-transform: uppercase;
 }
 
 .topContacts {
