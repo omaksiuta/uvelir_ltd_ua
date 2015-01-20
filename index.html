@@ -23,6 +23,7 @@
     <link href="css/table.css" type="text/css" rel="stylesheet"/>
     <link href="css/index.css" type="text/css" rel="stylesheet"/>
     <link href="css/menu.css" type="text/css" rel="stylesheet"/>
+
 </head>
 
 <body>
@@ -40,24 +41,33 @@
                 <div class="tableCell middleCenterContainer">
                     <label for="show-menu" class="show-menu"><span>Menu &#9776;</span></label>
                     <input type="checkbox" id="show-menu" role="button">
-                    <ul id="menu">
-                        <li><a id="menu_main" href="main.html" target="iframe_all"><span
-                                id="menuAbout">Главная</span></a>
-                        </li>
-                        <li><a id="menu_about" href="about.html" target="iframe_all"><span
-                                id="menuAbout">О Компании</span></a>
-                        </li>
-                        </li>
-                        <li><a id="menu_brands" href="#section_brands" target="iframe_all"><span
-                                id="menubrands">Бренды</span></a></li>
-                        <!--http://uvelir.dp.ua/brendi/cavello/-->
-                        <li><a id="menu_services" href="services.html" target="iframe_all"><span
-                                id="menuService">Услуги</span></a></li>
-                        <!--<li><a id="menu_pricing" href="preyskurant.html" target="iframe_all"><span id="menuPricing">Прейскурант</span></a></li>-->
-                        <li><a id="menu_contacts" href="contacts.html" target="iframe_all"><span
-                                id="menuContactUs">Контакты</span></a>
-                        </li>
-                    </ul>
+
+
+                    <nav>
+                        <ul id="menu">
+                            <li><a id="menu_main" href="main.html" target="iframe_all"><span
+                                    id="menuAbout">Главная</span></a></li>
+                            <li><a id="menu_about" href="about.html" target="iframe_all"><span
+                                    id="menuAbout">О Компании</span></a></li>
+                            <li><a id="menu_services" href="services.html" target="iframe_all"><span
+                                    id="menuService">Услуги</span></a></li>
+                            <!--<li><a id="menu_pricing" href="preyskurant.html" target="iframe_all"><span id="menuPricing">Прейскурант</span></a></li>-->
+                            <li><a><span id="menuLibs">Библиотека</span></a>
+                                <ul id="menu_libs">
+                                    <!--http://uvelir.dp.ua/brendi/cavello/-->
+                                    <li><a id="menu_brands" href="#" target="iframe_all"><span
+                                            id="menubrands">Бренды</span></a></li>
+                                    <!--http://www.abinsk-master.ru/-->
+                                    <li><a id="menu_stones" href="#" target="iframe_all"><span
+                                            id="menuStones">Камни</span></a></li>
+                                </ul>
+                            </li>
+                            <li><a id="menu_contacts" href="contacts.html" target="iframe_all"><span
+                                    id="menuContactUs">Контакты</span></a>
+                            </li>
+                        </ul>
+
+                    </nav>
                 </div>
             </div>
         </div>
@@ -84,14 +94,9 @@
                             id="menuAbout">Главная</span></a>
                     <a class="footerLink" id="link_products" href="about.html" target="iframe_all" rel="nofollow"><span
                             id="menuProducts">О Компании</span></a>
-                    <a class="footerLink" id="link_brands" href="#section_brands" target="iframe_all"
-                       rel="nofollow"><span
-                            id="menubrands">Бренды</span></a>
                     <a class="footerLink" id="link_service" href="services.html" target="iframe_all"
                        rel="nofollow"><span
                             id="menuService">Услуги</span></a>
-                    <!--<a class="footerLink" id="link_pricing" href="preyskurant.html" rel="nofollow"><span-->
-                    <!--id="menuPricing">Прейскурант</span></a>-->
                     <a class="footerLink" id="link_contacts" href="contacts.html" target="iframe_all"
                        rel="nofollow"><span
                             id="menuContactUs">Контакты</span></a>
@@ -155,6 +160,9 @@
         </div>
     </div>
 </footer>
+
+
+
 </body>
 </html>
 
