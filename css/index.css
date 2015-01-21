@@ -1,10 +1,10 @@
 ﻿html {
-    background-color: #000000;
+    background-color: #222;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     min-width: 640px;
-    max-width: 900px;
+    max-width: 1024px;
 }
 
 body {
@@ -59,14 +59,14 @@ footer {
 }
 
 .footerLink:hover, .headerLink:hover {
-    color: darkred;
+    color: e8c880;
     /*font-weight: bold;*/
 }
 
 .logo {
     vertical-align: top;
     font-family: times, Times New Roman, times-roman, georgia, serif;
-    color: white;
+    color: #e8c880;
     display: inline-block;
 }
 
@@ -83,7 +83,7 @@ footer {
     height: 60px;
     min-width: 200px;
     display: inline-block;
-    color: darkred;
+    color: e8c880;
     /*border: 2px solid blue;*/
 }
 
