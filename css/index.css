@@ -59,7 +59,7 @@ footer {
 }
 
 .footerLink:hover, .headerLink:hover {
-    color: e8c880;
+    color: #e8c880;
     /*font-weight: bold;*/
 }
 
@@ -83,7 +83,7 @@ footer {
     height: 60px;
     min-width: 200px;
     display: inline-block;
-    color: e8c880;
+    color: #e8c880;
     /*border: 2px solid blue;*/
 }
 
@@ -101,3 +101,4 @@ footer {
     width: 30px;
     height: 30px;
 }
+

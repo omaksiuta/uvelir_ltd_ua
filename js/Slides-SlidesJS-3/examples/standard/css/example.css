@@ -1713,13 +1713,13 @@ small {
 }
 
 a:link, a:visited {
-    color: #d22929;
+    color: #e8c880;
     text-decoration: none;
     font-weight: 600;
 }
 
 a:hover, a:active {
-    color: #9e2020;
+    color: #e8c880;
     text-decoration: none;
     font-weight: 600;
 }

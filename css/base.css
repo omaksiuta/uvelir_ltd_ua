@@ -4,3 +4,10 @@ html
     /*background-color: white;*/
     font-family: times, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+.readText{
+    color: #222;
+    background-color: white;
+}
+h1{
+    /*color: #e8c880;*/
+}

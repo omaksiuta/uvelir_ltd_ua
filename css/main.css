@@ -3,3 +3,10 @@
     text-align: center;
     color: white;
 }
+
+
+.sloganHolder{
+    display: inline-block;
+    text-transform: uppercase;
+
+}

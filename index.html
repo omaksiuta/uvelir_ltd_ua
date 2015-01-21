@@ -23,8 +23,6 @@
     Полировка колец, Золотые изделия. Серебрянные изделия. Выгодные цены. Замена каучуковых шнурков."/>
 
 
-
-
     <meta name="description" content="Изготовление и ремонт ювелирных изделий по низким ценамю"/>
     <meta http-equiv="Content-Language" content="ru"/>
     <meta http-equiv="Cache-Control" content="no-cache"/>
@@ -43,53 +41,61 @@
 
 <body>
 <article>
-    <header style="width: 100%; ">
-        <div class="table" style="width: 100%; min-height: 180px;">
+    <header style="width: 100%;">
+        <div class="table" style="width: 100%; ">
+            <div class="tableRow">
+                <div class="tableCell middleCenterContainer">
+                    <label for="show-menu" class="show-menu"><span>Menu &#9776;</span></label>
+                    <input type="checkbox" id="show-menu" role="button">
+                    <ul id="menu">
+                        <li><a id="menu_main" href="main.html" target="iframe_all"><span
+                                id="menuAbout">Главная</span></a></li>
+                        <li><a id="menu_services" href="services.html" target="iframe_all"><span
+                                id="menuService">Услуги</span></a></li>
+                        <!--<li><a id="menu_pricing" href="preyskurant.html" target="iframe_all"><span id="menuPricing">Прейскурант</span></a></li>-->
+                        <li><a><span id="menuLibs">Статьи</span></a>
+                            <ul id="menu_libs">
+                                <!--http://uvelir.dp.ua/brendi/cavello/-->
+                                <li><a id="menu_brands" href="#" target="iframe_all"><span
+                                        id="menubrands">Бренды</span></a></li>
+                                <!--http://www.abinsk-master.ru/-->
+                                <li><a id="menu_stones" href="#" target="iframe_all"><span
+                                        id="menuStones">Камни</span></a></li>
+                            </ul>
+                        </li>
+                        <li><a id="menu_contacts" href="contacts.html" target="iframe_all"><span
+                                id="menuContactUs">Контакты</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
             <div class="tableRow">
                 <div class="tableCell topCenterContainer">
-                    <div class="logo logotext">Ювелирная<img style="width: 80px; height: 80px;" src="images/diamond.png">Мастерская</div>
+                    <div class="logo logotext">Ювелирная<img style="width: 80px; height: 80px;"
+                                                             src="images/diamond.png">Мастерская
+                    </div>
                     <div class="logo logoDescription">Изготовление и ремонт ювелирных изделий любой сложности</div>
                 </div>
             </div>
-            <div class="tableRow">
-                <div class="tableCell middleCenterContainer" style="padding-top: 25px;">
-                    <label for="show-menu" class="show-menu"><span>Menu &#9776;</span></label>
-                    <input type="checkbox" id="show-menu" role="button">
-                        <ul id="menu">
-                            <li><a id="menu_main" href="main.html" target="iframe_all"><span
-                                    id="menuAbout">Главная</span></a></li>
-                            <li><a id="menu_services" href="services.html" target="iframe_all"><span
-                                    id="menuService">Услуги</span></a></li>
-                            <!--<li><a id="menu_pricing" href="preyskurant.html" target="iframe_all"><span id="menuPricing">Прейскурант</span></a></li>-->
-                            <li><a><span id="menuLibs">Статьи</span></a>
-                                <ul id="menu_libs">
-                                    <!--http://uvelir.dp.ua/brendi/cavello/-->
-                                    <li><a id="menu_brands" href="#" target="iframe_all"><span
-                                            id="menubrands">Бренды</span></a></li>
-                                    <!--http://www.abinsk-master.ru/-->
-                                    <li><a id="menu_stones" href="#" target="iframe_all"><span
-                                            id="menuStones">Камни</span></a></li>
-                                </ul>
-                            </li>
-                            <li><a id="menu_contacts" href="contacts.html" target="iframe_all"><span
-                                    id="menuContactUs">Контакты</span></a>
-                            </li>
-                        </ul>
-                </div>
-            </div>
+
         </div>
     </header>
 </article>
 <br>
 
-<section id="iFrameSection" class="middleCenterContainer">
+<section id="iFrameSection" class="middleCenterContainer" style="padding-top: 15px;">
+
     <iframe id="iframePages"
             name="iframe_all"
             src="main.html"
             width="100%"
             scrolling="no"
-            frameborder="0"
-            ></iframe>
+            frameborder="0">
+
+
+    </iframe>
+
 </section>
 <br>
 <footer>
@@ -161,7 +167,7 @@
                        data-count="ya" title="Поделиться в Я.ру" target="_blank">
                         <img src="images/icons/yandex_2.png"></a>
                 </div>
-                <div>&copy; Ювелирная Мастерская | 1991-2015</div>
+                <div>&copy; Ювелирная Мастерская | 1992-2015</div>
             </div>
         </div>
     </div>

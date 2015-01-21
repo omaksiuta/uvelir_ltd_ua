@@ -30,7 +30,7 @@ li a {
 
 /*Hover state for top level links*/
 li:hover a {
-    background: e8c880;
+    background: #e8c880;
     font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ li:hover ul a {
 
 /*Hover state for dropdown links*/
 li:hover ul a:hover {
-    background: e8c880;
+    background: #e8c880;
 }
 
 
@@ -78,7 +78,7 @@ ul ul {
 
 ul ul li {
     background: white;
-    color: e8c880;
+    color: #e8c880;
     float: none;
 
     display: block;
@@ -90,7 +90,7 @@ ul ul li {
 }
 
 ul ul li:hover {
-    background: e8c880;
+    background: #e8c880;
     color: white;
 }
 
