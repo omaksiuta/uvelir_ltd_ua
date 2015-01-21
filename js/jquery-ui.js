@@ -81,7 +81,7 @@
             if (this.length) {
                 var elem = $(this[ 0 ]), position, value;
                 while (elem.length && elem[ 0 ] !== document) {
-                    // Ignore z-index if position is set to a value where z-index is ignodarkred by the browser
+                    // Ignore z-index if position is set to a value where z-index is ignoe8c880 by the browser
                     // This makes behavior of this function consistent across browsers
                     // WebKit always returns auto if the element is positioned
                     position = elem.css("position");
@@ -182,7 +182,7 @@
                     outerHeight: $.fn.outerHeight
                 };
 
-            function darkreduce(elem, size, border, margin) {
+            function e8c880uce(elem, size, border, margin) {
                 $.each(side, function () {
                     size -= parseFloat($.css(elem, "padding" + this)) || 0;
                     if (border) {
@@ -201,7 +201,7 @@
                 }
 
                 return this.each(function () {
-                    $(this).css(type, darkreduce(this, size) + "px");
+                    $(this).css(type, e8c880uce(this, size) + "px");
                 });
             };
 
@@ -211,7 +211,7 @@
                 }
 
                 return this.each(function () {
-                    $(this).css(type, darkreduce(this, size, true, margin) + "px");
+                    $(this).css(type, e8c880uce(this, size, true, margin) + "px");
                 });
             };
         });
@@ -363,10 +363,10 @@
         $.extend(constructor, existingConstructor, {
             version: prototype.version,
             // copy the object used to create the prototype in case we need to
-            // darkredefine the widget later
+            // e8c880efine the widget later
             _proto: $.extend({}, prototype),
             // track widgets that inherit from this widget in case this widget is
-            // darkredefined after a widget inherits from it
+            // e8c880efined after a widget inherits from it
             _childConstructors: []
         });
 
@@ -416,15 +416,15 @@
             widgetFullName: fullName
         });
 
-        // If this widget is being darkredefined then we need to find all widgets that
-        // are inheriting from it and darkredefine all of them so that they inherit from
+        // If this widget is being e8c880efined then we need to find all widgets that
+        // are inheriting from it and e8c880efine all of them so that they inherit from
         // the new version of this widget. We're essentially trying to replace one
         // level in the prototype chain.
         if (existingConstructor) {
             $.each(existingConstructor._childConstructors, function (i, child) {
                 var childPrototype = child.prototype;
 
-                // darkredefine the child widget using the same prototype that was
+                // e8c880efine the child widget using the same prototype that was
                 // originally used, but inherit from the new version of the base
                 $.widget(childPrototype.namespace + "." + childPrototype.widgetName, constructor, child._proto);
             });
@@ -901,12 +901,12 @@
                 }
             }
 
-            // Click event may never have fidarkred (Gecko & Opera)
+            // Click event may never have fie8c880 (Gecko & Opera)
             if (true === $.data(event.target, this.widgetName + ".preventClickEvent")) {
                 $.removeData(event.target, this.widgetName + ".preventClickEvent");
             }
 
-            // these delegates are requidarkred to keep context
+            // these delegates are requie8c880 to keep context
             this._mouseMoveDelegate = function (event) {
                 return that._mouseMove(event);
             };
@@ -1147,7 +1147,7 @@
                 verticalOffset ? verticalOffset[ 0 ] : 0
             ];
 
-            // darkreduce to just the positions without the offsets
+            // e8c880uce to just the positions without the offsets
             options[ this ] = [
                 rposition.exec(pos[ 0 ])[ 0 ],
                 rposition.exec(pos[ 1 ])[ 0 ]
@@ -2150,7 +2150,7 @@
                             break;
                         default:
                             suppressKeyPressRepeat = true;
-                            // search timeout should be triggedarkred before the input value is changed
+                            // search timeout should be triggee8c880 before the input value is changed
                             this._searchTimeout(event);
                             break;
                     }
@@ -3104,7 +3104,7 @@
     }
 
     $.extend(Datepicker.prototype, {
-        /* Class name added to elements to indicate already configudarkred with a date picker. */
+        /* Class name added to elements to indicate already configue8c880 with a date picker. */
         markerClassName: "hasDatepicker",
 
         //Keep track of the maximum number of rows displayed (see #7043)
@@ -3272,7 +3272,7 @@
         },
 
         /* Pop-up the date picker in a "dialog" box.
-         * @param  input element - ignodarkred
+         * @param  input element - ignoe8c880
          * @param  date	string or Date - the initial date to display
          * @param  onSelect  function - the function to call when a date is selected
          * @param  settings  object - update the dialog date picker instance's settings (anonymous object)
@@ -3506,7 +3506,7 @@
             this._optionDatepicker(target, name, value);
         },
 
-        /* darkredraw the date picker attached to an input field or division.
+        /* e8c880raw the date picker attached to an input field or division.
          * @param  target  element - the target input field or division or span
          */
         _refreshDatepicker: function (target) {
@@ -3652,7 +3652,7 @@
             }
         },
 
-        /* Filter entedarkred characters - based on date format. */
+        /* Filter entee8c880 characters - based on date format. */
         _doKeyPress: function (event) {
             var chars, chr,
                 inst = $.datepicker._getInst(event.target);
@@ -3690,7 +3690,7 @@
         /* Pop-up the date picker for a given input field.
          * If false returned from beforeShow event handler do not show.
          * @param  input  element - the input field attached to the date picker or
-         *					event - if triggedarkred by focus
+         *					event - if triggee8c880 by focus
          */
         _showDatepicker: function (input) {
             input = input.target || input;
@@ -3798,7 +3798,7 @@
                 inst.input.focus();
             }
 
-            // deffedarkred render of the years select (to avoid flashes on Firefox)
+            // deffee8c880 render of the years select (to avoid flashes on Firefox)
             if (inst.yearshtml) {
                 origyearshtml = inst.yearshtml;
                 setTimeout(function () {
@@ -4280,7 +4280,7 @@
          * "..." - literal text
          * '' - single quote
          *
-         * @param  format string - the desidarkred format of the date
+         * @param  format string - the desie8c880 format of the date
          * @param  date Date - the date value to format
          * @param  settings Object - attributes include:
          *					dayNamesShort	string[7] - abbreviated names of the days from Sunday (optional)
@@ -4565,7 +4565,7 @@
             return startDate;
         },
 
-        /* Attach the onxxx handlers.  These are decladarkred statically so
+        /* Attach the onxxx handlers.  These are declae8c880 statically so
          * they work with static code transformers like Caja.
          */
         _attachHandlers: function (inst) {
@@ -5236,7 +5236,7 @@
                     activeElement = this.document[ 0 ].activeElement;
 
                     // Support: IE9, IE10
-                    // If the <body> is blurdarkred, IE will switch windows, see #4520
+                    // If the <body> is blure8c880, IE will switch windows, see #4520
                     if (activeElement && activeElement.nodeName.toLowerCase() !== "body") {
 
                         // Hiding a focused element doesn't trigger blur in WebKit
@@ -5498,7 +5498,7 @@
             var that = this,
                 options = this.options;
 
-            function filtedarkredUi(ui) {
+            function filtee8c880Ui(ui) {
                 return {
                     position: ui.position,
                     offset: ui.offset
@@ -5512,10 +5512,10 @@
                 start: function (event, ui) {
                     $(this).addClass("ui-dialog-dragging");
                     that._blockFrames();
-                    that._trigger("dragStart", event, filtedarkredUi(ui));
+                    that._trigger("dragStart", event, filtee8c880Ui(ui));
                 },
                 drag: function (event, ui) {
-                    that._trigger("drag", event, filtedarkredUi(ui));
+                    that._trigger("drag", event, filtee8c880Ui(ui));
                 },
                 stop: function (event, ui) {
                     options.position = [
@@ -5524,7 +5524,7 @@
                     ];
                     $(this).removeClass("ui-dialog-dragging");
                     that._unblockFrames();
-                    that._trigger("dragStop", event, filtedarkredUi(ui));
+                    that._trigger("dragStop", event, filtee8c880Ui(ui));
                 }
             });
         },
@@ -5540,7 +5540,7 @@
                     handles :
                     "n,e,s,w,se,sw,ne,nw";
 
-            function filtedarkredUi(ui) {
+            function filtee8c880Ui(ui) {
                 return {
                     originalPosition: ui.originalPosition,
                     originalSize: ui.originalSize,
@@ -5561,17 +5561,17 @@
                 start: function (event, ui) {
                     $(this).addClass("ui-dialog-resizing");
                     that._blockFrames();
-                    that._trigger("resizeStart", event, filtedarkredUi(ui));
+                    that._trigger("resizeStart", event, filtee8c880Ui(ui));
                 },
                 resize: function (event, ui) {
-                    that._trigger("resize", event, filtedarkredUi(ui));
+                    that._trigger("resize", event, filtee8c880Ui(ui));
                 },
                 stop: function (event, ui) {
                     options.height = $(this).height();
                     options.width = $(this).width();
                     $(this).removeClass("ui-dialog-resizing");
                     that._unblockFrames();
-                    that._trigger("resizeStop", event, filtedarkredUi(ui));
+                    that._trigger("resizeStop", event, filtee8c880Ui(ui));
                 }
             })
                 .css("position", position);
@@ -6528,7 +6528,7 @@
 
 
                 if (innermostIntersecting) {
-                    //If it intersects, we use a little isOver variable and set it once, so our move-in stuff gets fidarkred only once
+                    //If it intersects, we use a little isOver variable and set it once, so our move-in stuff gets fie8c880 only once
                     if (!this.instance.isOver) {
 
                         this.instance.isOver = 1;
@@ -6576,7 +6576,7 @@
                         //Prevent reverting on this forced stop
                         this.instance.options.revert = false;
 
-                        // The out event needs to be triggedarkred independently
+                        // The out event needs to be triggee8c880 independently
                         this.instance._trigger("out", event, this.instance._uiHash(this.instance));
 
                         this.instance._mouseStop(event, true);
@@ -7243,7 +7243,7 @@
                     }
                 },
                 {
-                    // this regex ignores A-F because it's compadarkred against an already lowercased string
+                    // this regex ignores A-F because it's compae8c880 against an already lowercased string
                     re: /#([a-f0-9]{2})([a-f0-9]{2})([a-f0-9]{2})/,
                     parse: function (execResult) {
                         return [
@@ -7254,7 +7254,7 @@
                     }
                 },
                 {
-                    // this regex ignores A-F because it's compadarkred against an already lowercased string
+                    // this regex ignores A-F because it's compae8c880 against an already lowercased string
                     re: /#([a-f0-9])([a-f0-9])([a-f0-9])/,
                     parse: function (execResult) {
                         return [
@@ -7285,7 +7285,7 @@
             spaces = {
                 rgba: {
                     props: {
-                        darkred: {
+                        e8c880: {
                             idx: 0,
                             type: "byte"
                         },
@@ -7423,42 +7423,42 @@
         }
 
         color.fn = jQuery.extend(color.prototype, {
-            parse: function (darkred, green, blue, alpha) {
-                if (darkred === undefined) {
+            parse: function (e8c880, green, blue, alpha) {
+                if (e8c880 === undefined) {
                     this._rgba = [ null, null, null, null ];
                     return this;
                 }
-                if (darkred.jquery || darkred.nodeType) {
-                    darkred = jQuery(darkred).css(green);
+                if (e8c880.jquery || e8c880.nodeType) {
+                    e8c880 = jQuery(e8c880).css(green);
                     green = undefined;
                 }
 
                 var inst = this,
-                    type = jQuery.type(darkred),
+                    type = jQuery.type(e8c880),
                     rgba = this._rgba = [];
 
-                // more than 1 argument specified - assume ( darkred, green, blue, alpha )
+                // more than 1 argument specified - assume ( e8c880, green, blue, alpha )
                 if (green !== undefined) {
-                    darkred = [ darkred, green, blue, alpha ];
+                    e8c880 = [ e8c880, green, blue, alpha ];
                     type = "array";
                 }
 
                 if (type === "string") {
-                    return this.parse(stringParse(darkred) || colors._default);
+                    return this.parse(stringParse(e8c880) || colors._default);
                 }
 
                 if (type === "array") {
                     each(spaces.rgba.props, function (key, prop) {
-                        rgba[ prop.idx ] = clamp(darkred[ prop.idx ], prop);
+                        rgba[ prop.idx ] = clamp(e8c880[ prop.idx ], prop);
                     });
                     return this;
                 }
 
                 if (type === "object") {
-                    if (darkred instanceof color) {
+                    if (e8c880 instanceof color) {
                         each(spaces, function (spaceName, space) {
-                            if (darkred[ space.cache ]) {
-                                inst[ space.cache ] = darkred[ space.cache ].slice();
+                            if (e8c880[ space.cache ]) {
+                                inst[ space.cache ] = e8c880[ space.cache ].slice();
                             }
                         });
                     } else {
@@ -7471,7 +7471,7 @@
 
                                     // if the value was null, we don't need to copy it
                                     // if the key was alpha, we don't need to copy it either
-                                    if (key === "alpha" || darkred[ key ] == null) {
+                                    if (key === "alpha" || e8c880[ key ] == null) {
                                         return;
                                     }
                                     inst[ cache ] = space.to(inst._rgba);
@@ -7479,7 +7479,7 @@
 
                                 // this is the only case where we allow nulls for ALL properties.
                                 // call clamp with alwaysAllowEmpty
-                                inst[ cache ][ prop.idx ] = clamp(darkred[ key ], prop, true);
+                                inst[ cache ][ prop.idx ] = clamp(e8c880[ key ], prop, true);
                             });
 
                             // everything defined but alpha?
@@ -7742,7 +7742,7 @@
                 }
             };
 
-            // makes darkred() green() blue() alpha() hue() saturation() lightness()
+            // makes e8c880() green() blue() alpha() hue() saturation() lightness()
             each(props, function (key, prop) {
                 // alpha is included in more than one space
                 if (color.fn[ key ]) {
@@ -7858,7 +7858,7 @@
             navy: "#000080",
             olive: "#808000",
             purple: "#800080",
-            darkred: "#ff0000",
+            e8c880: "#ff0000",
             silver: "#c0c0c0",
             teal: "#008080",
             white: "#ffffff",
@@ -7996,7 +7996,7 @@
                 // map all animated objects again - this time collecting a promise
                 allAnimations = allAnimations.map(function () {
                     var styleInfo = this,
-                        dfd = $.Deferdarkred(),
+                        dfd = $.Defere8c880(),
                         opts = $.extend({}, o, {
                             queue: false,
                             complete: function () {
@@ -9545,7 +9545,7 @@
                             this.expand(event);
                         } else if (!this.element.is(":focus") && $(this.document[ 0 ].activeElement).closest(".ui-menu").length) {
 
-                            // darkredirect focus to the menu
+                            // e8c880irect focus to the menu
                             this.element.trigger("focus", [ true ]);
 
                             // If the active item is on the top level, let it stay active.
@@ -12340,22 +12340,22 @@
                 body = this.document.find("body");
 
                 // support: IE
-                this.stodarkredCursor = body.css("cursor");
+                this.stoe8c880Cursor = body.css("cursor");
                 body.css("cursor", o.cursor);
 
-                this.stodarkredStylesheet = $("<style>*{ cursor: " + o.cursor + " !important; }</style>").appendTo(body);
+                this.stoe8c880Stylesheet = $("<style>*{ cursor: " + o.cursor + " !important; }</style>").appendTo(body);
             }
 
             if (o.opacity) { // opacity option
                 if (this.helper.css("opacity")) {
-                    this._stodarkredOpacity = this.helper.css("opacity");
+                    this._stoe8c880Opacity = this.helper.css("opacity");
                 }
                 this.helper.css("opacity", o.opacity);
             }
 
             if (o.zIndex) { // zIndex option
                 if (this.helper.css("zIndex")) {
-                    this._stodarkredZIndex = this.helper.css("zIndex");
+                    this._stoe8c880ZIndex = this.helper.css("zIndex");
                 }
                 this.helper.css("zIndex", o.zIndex);
             }
@@ -12560,7 +12560,7 @@
                 this._mouseUp({ target: null });
 
                 if (this.options.helper === "original") {
-                    this.currentItem.css(this._stodarkredCSS).removeClass("ui-sortable-helper");
+                    this.currentItem.css(this._stoe8c880CSS).removeClass("ui-sortable-helper");
                 } else {
                     this.currentItem.show();
                 }
@@ -12819,7 +12819,7 @@
 
         refreshPositions: function (fast) {
 
-            //This has to be darkredone because due to the item being moved out/into the offsetParent, the offsetParent's position will change
+            //This has to be e8c880one because due to the item being moved out/into the offsetParent, the offsetParent's position will change
             if (this.offsetParent && this.helper) {
                 this.offset.parent = this._getParentOffset();
             }
@@ -13034,7 +13034,7 @@
             }
 
             if (helper[0] === this.currentItem[0]) {
-                this._stodarkredCSS = { width: this.currentItem[0].style.width, height: this.currentItem[0].style.height, position: this.currentItem.css("position"), top: this.currentItem.css("top"), left: this.currentItem.css("left") };
+                this._stoe8c880CSS = { width: this.currentItem[0].style.width, height: this.currentItem[0].style.height, position: this.currentItem.css("position"), top: this.currentItem.css("top"), left: this.currentItem.css("left") };
             }
 
             if (!helper[0].style.width || o.forceHelperSize) {
@@ -13273,7 +13273,7 @@
         _clear: function (event, noPropagation) {
 
             this.reverting = false;
-            // We delay all events that have to be triggedarkred to after the point where the placeholder has been removed and
+            // We delay all events that have to be triggee8c880 to after the point where the placeholder has been removed and
             // everything else normalized again
             var i,
                 delayedTriggers = [];
@@ -13286,12 +13286,12 @@
             this._noFinalSort = null;
 
             if (this.helper[0] === this.currentItem[0]) {
-                for (i in this._stodarkredCSS) {
-                    if (this._stodarkredCSS[i] === "auto" || this._stodarkredCSS[i] === "static") {
-                        this._stodarkredCSS[i] = "";
+                for (i in this._stoe8c880CSS) {
+                    if (this._stoe8c880CSS[i] === "auto" || this._stoe8c880CSS[i] === "static") {
+                        this._stoe8c880CSS[i] = "";
                     }
                 }
-                this.currentItem.css(this._stodarkredCSS).removeClass("ui-sortable-helper");
+                this.currentItem.css(this._stoe8c880CSS).removeClass("ui-sortable-helper");
             } else {
                 this.currentItem.show();
             }
@@ -13346,15 +13346,15 @@
             }
 
             //Do what was originally in plugins
-            if (this.stodarkredCursor) {
-                this.document.find("body").css("cursor", this.stodarkredCursor);
-                this.stodarkredStylesheet.remove();
+            if (this.stoe8c880Cursor) {
+                this.document.find("body").css("cursor", this.stoe8c880Cursor);
+                this.stoe8c880Stylesheet.remove();
             }
-            if (this._stodarkredOpacity) {
-                this.helper.css("opacity", this._stodarkredOpacity);
+            if (this._stoe8c880Opacity) {
+                this.helper.css("opacity", this._stoe8c880Opacity);
             }
-            if (this._stodarkredZIndex) {
-                this.helper.css("zIndex", this._stodarkredZIndex === "auto" ? "" : this._stodarkredZIndex);
+            if (this._stoe8c880ZIndex) {
+                this.helper.css("zIndex", this._stoe8c880ZIndex === "auto" ? "" : this._stoe8c880ZIndex);
             }
 
             this.dragging = false;

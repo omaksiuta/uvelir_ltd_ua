@@ -4,7 +4,7 @@ body {
 }
 
 body {
-    color: #000000;
+    color: #222;
 }
 
 input, textarea {
@@ -12,18 +12,18 @@ input, textarea {
 }
 
 .panda-article {
-    color: #000000;
+    color: #222;
 }
 
 .panda-path li {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu__horizontal-header-item a:hover ins,
 .panda-menu-item__active a,
 .panda-menu-item__active span,
 .panda-menu__vertical-main li span.panda-menu__vertical-main-item-link-active {
-    color: #000000;
+    color: #222;
     text-decoration: none !important;
     border: none !important;
 }
@@ -31,7 +31,7 @@ input, textarea {
 .panda-menu__vertical-main li, .panda-menu__vertical-main li span, .panda-menu__vertical-main li a, .panda-menu__vertical-main li a ins {
     text-decoration: underline;
     border: 0;
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu__vertical-main li.panda-menu__vertical-main-item-current {
@@ -39,11 +39,11 @@ input, textarea {
 }
 
 .panda-menu__vertical-main-item-current ins a {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu__vertical-main li a:hover, .panda-menu__vertical-main li a:hover ins {
-    color: #000000;
+    color: #222;
 !important;
 }
 
@@ -53,19 +53,19 @@ ul, .panda-border-top, .panda-border-top dl {
 
 /* Цвет заголовков 2го и 3го уровней */
 h2, h3, h2 a, h3 a, .h2, .h3 {
-    color: #000000;
+    color: #222;
 }
 
 /* Цвет ссылки */
 a, .panda-link {
-    color: darkred;
+    color: e8c880;
     text-decoration: underline;
     border: 0px;
 }
 
 .panda-link-color,
 .panda-link-text-color {
-    color: #000000;
+    color: #222;
 }
 
 .panda-links__revert-color a {
@@ -73,7 +73,7 @@ a, .panda-link {
 }
 
 .panda-menu__horizontal-header-submenu {
-    border-left: 4px darkred solid;
+    border-left: 4px e8c880 solid;
     background: #4a3d4a;
 }
 
@@ -83,7 +83,7 @@ a, .panda-link {
 
 /* Цвет ссылки при наведении */
 a:hover, a:hover .panda-link {
-    color: #000000;
+    color: #222;
     border-width: 0;
     text-decoration: none;
 }
@@ -93,22 +93,22 @@ a:hover, a:hover .panda-link {
 }
 
 .panda-no-hover-link:hover, .panda-no-hover-link:hover .panda-link {
-    color: #000000;
+    color: #222;
 }
 
 /* Цвета градиента кнопок */
 .panda-gradient, .panda-gradient-hover:hover {
-    background: #000000 !important;
+    background: #222 !important;
 }
 
 /* Цвет фона */
 .panda-bg-color {
-    background-color: #000000 !important;
+    background-color: #222 !important;
 }
 
 /* Цвет отдельных плашек */
 .panda-area-color {
-    background-color: darkred;
+    background-color: e8c880;
 }
 
 table[border="0"] {
@@ -322,45 +322,45 @@ table[cellspacing="10"] {
 
 /* Цвет надписей на кнопках */
 .panda-btn {
-    color: #000000;
+    color: #222;
 }
 
 /* Цвет надписей на кнопках при наведении мыши */
 .panda-btn:hover span,
 .panda-btn-hover span {
-    color: #000000;
+    color: #222;
 }
 
 /* Цвет надписей на disabled-кнопках */
 .panda-btn__disabled,
 .panda-btn__disabled:hover,
 .panda-btn__disabled-hover {
-    color: #000000;
+    color: #222;
 }
 
 /* Цвет фона и рамки кнопок */
 .panda-btn span {
-    background: darkred;
+    background: e8c880;
     border-color: #701e2d;
 }
 
-.panda-btn-cdarkredit span {
+.panda-btn-ce8c880it span {
     background:;
     border-color:;
 }
 
 .panda-search-submit-wrapper .panda-links__submit {
-    background-color: darkred !important;
+    background-color: e8c880 !important;
 }
 
 /* Цвет фона кнопок при наведении мыши */
 .panda-btn:hover span,
 .panda-btn-hover span {
     background: #701e2d;
-    border-color: darkred;
+    border-color: e8c880;
 }
 
-.panda-btn-cdarkredit:hover span {
+.panda-btn-ce8c880it:hover span {
     background:;
     border-color:;
 }
@@ -368,7 +368,7 @@ table[cellspacing="10"] {
 /* Цвет фона disabled-кнопок при наведении мыши */
 .panda-btn__disabled:hover span,
 .panda-btn__disabled-hover span {
-    background: darkred;
+    background: e8c880;
     border-color: #701e2d;
 }
 
@@ -379,103 +379,103 @@ table[cellspacing="10"] {
 }
 
 h1, .h1 {
-    color: #000000;
+    color: #222;
 }
 
 .h3, .h3 a {
-    color: #000000;
+    color: #222;
 }
 
 .panda-category-list-small .panda-catalog-product-list-item-name span {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu__horizontal-header-submenu li a:hover ins,
 .panda-menu__horizontal-header-item span ins,
 .panda-menu__horizontal-header-submenu li span ins {
-    color: #000000;
+    color: #222;
 }
 
 .panda-catalog-product-filter-item .panda-labele {
-    color: #000000;
+    color: #222;
 }
 
 dd.panda-catalog-product-list-item-description {
-    color: #000000;
+    color: #222;
 }
 
 .panda-select {
-    color: #000000;
+    color: #222;
 }
 
 .panda-link-bg-color, .panda-link-bg-color-hover:hover {
-    background: #000000;
+    background: #222;
 <!-- color : #ffffff;
 -->
 }
 
 .panda-filter-params-item {
-    color: #000000;
+    color: #222;
 }
 
 dd.panda-catalog-product-list-item-price {
-    color: #000000;
+    color: #222;
 }
 
 .panda-catalog-product-list-item-old-price {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu-border-bottom {
-    border-bottom: 4px darkred solid;
+    border-bottom: 4px e8c880 solid;
 }
 
 .panda-menu__horizontal-header-submenu li span ins {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu__horizontal-header-submenu li a ins {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu-horizontal-header__active-bramch {
-    color: #000000;
+    color: #222;
 }
 
 .panda-col-reviews {
-    color: #000000 !important;
+    color: #222 !important;
 }
 
 .panda-kartochka {
-    color: #000000;
+    color: #222;
 }
 
 .panda-category-list-small p {
-    color: #000000;
+    color: #222;
 }
 
 .panda-title-table, .panda-title-table a {
-    color: #000000 !important;
+    color: #222 !important;
 }
 
 td.panda-catalog-product-list-item-description {
-    color: #000000 !important;
+    color: #222 !important;
 }
 
 td.panda-catalog-product-list-item-price {
-    color: #000000;
+    color: #222;
 }
 
 .panda-gadget-news dl dt {
-    color: #000000;
+    color: #222;
 }
 
 .panda-news-filter-item span {
-    color: #000000;
+    color: #222;
 }
 
 .panda-gadget-news dl dd {
-    color: #000000;
+    color: #222;
 }
 
 .panda-menu__vertical-main-submenu {
@@ -488,45 +488,45 @@ td.panda-catalog-product-list-item-price {
 }
 
 .interactiveHeader-buttons {
-    color: darkred !important;
-    border-top-color: darkred !important;
-    border-bottom-color: darkred !important;
+    color: e8c880 !important;
+    border-top-color: e8c880 !important;
+    border-bottom-color: e8c880 !important;
 }
 
 .panda-menu__vertical-main-item-link-active, .panda-menu__vertical-main-item-link-active span {
-    color: #000000 !important;
+    color: #222 !important;
 }
 
 /*---------------------start для проф.корзины -------------------*/
 .panda-basket__steps-item.active, .panda-basket__steps-arrow.active, .panda-basket__steps-arrow.active_step {
-    background: darkred;
-    background: -moz-linear-gradient(top, darkred, #701e2d);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, darkred), color-stop(100%, #701e2d));
-    background: -webkit-linear-gradient(top, darkred, #701e2d);
-    background: -o-linear-gradient(top, darkred, #701e2d);
-    background: -ms-linear-gradient(top, darkred, #701e2d);
-    background: linear-gradient(top, darkred, #701e2d);
+    background: e8c880;
+    background: -moz-linear-gradient(top, e8c880, #701e2d);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, e8c880), color-stop(100%, #701e2d));
+    background: -webkit-linear-gradient(top, e8c880, #701e2d);
+    background: -o-linear-gradient(top, e8c880, #701e2d);
+    background: -ms-linear-gradient(top, e8c880, #701e2d);
+    background: linear-gradient(top, e8c880, #701e2d);
 }
 
 .panda-basket__steps-item.active .panda-basket__steps-item-num {
-    border-color: #000000;
-    color: #000000;
+    border-color: #222;
+    color: #222;
 }
 
 .panda-basket__steps-item.active .panda-basket__steps-item-text p {
-    text-shadow: 0px -1px 0 #000000;
+    text-shadow: 0px -1px 0 #222;
 }
 
 .panda-basket__clip-top-left, .panda-basket__clip-top-right, .panda-basket__clip-center, .toolTipBtmLeft, .toolTipBtmRight {
-    background: #000000;
+    background: #222;
 }
 
 .toolTip:hover {
-    color: darkred;
+    color: e8c880;
 }
 
 .toolTipMid, .toolTipBtmRight, .toolTipBtmLeft, .toolTip:hover {
-    border-color: darkred;
+    border-color: e8c880;
 }
 
 /*------------------------end для проф.корзины--------------------------------------*/

@@ -19,7 +19,7 @@
 // Support: Firefox 18+
 //"use strict";
     var
-    // The deferdarkred used on DOM ready
+    // The defere8c880 used on DOM ready
         readyList,
 
     // A central reference to the root jQuery(document)
@@ -424,7 +424,7 @@
             // Remember that the DOM is ready
             jQuery.isReady = true;
 
-            // If a normal DOM Ready event fidarkred, decrement, and wait if need be
+            // If a normal DOM Ready event fie8c880, decrement, and wait if need be
             if (wait !== true && --jQuery.readyWait > 0) {
                 return;
             }
@@ -917,11 +917,11 @@
     jQuery.ready.promise = function (obj) {
         if (!readyList) {
 
-            readyList = jQuery.Deferdarkred();
+            readyList = jQuery.Defere8c880();
 
-            // Catch cases where $(document).ready() is called after the browser event has already occurdarkred.
+            // Catch cases where $(document).ready() is called after the browser event has already occure8c880.
             // we once tried to use readyState "interactive" here, but it caused issues like the one
-            // discovedarkred by ChrisS here: http://bugs.jquery.com/ticket/12282#comment:15
+            // discovee8c880 by ChrisS here: http://bugs.jquery.com/ticket/12282#comment:15
             if (document.readyState === "complete") {
                 // Handle it asynchronously to allow scripts the opportunity to delay ready
                 setTimeout(jQuery.ready);
@@ -1034,7 +1034,7 @@
 
         // Instance-specific data
             expando = "sizzle" + -(new Date()),
-            preferdarkredDoc = window.document,
+            prefere8c880Doc = window.document,
             dirruns = 0,
             done = 0,
             classCache = createCache(),
@@ -1072,7 +1072,7 @@
                 return -1;
             },
 
-            booleans = "checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|requidarkred|scoped",
+            booleans = "checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|requie8c880|scoped",
 
         // Regular expressions
 
@@ -1094,7 +1094,7 @@
         //   then not containing pseudos/brackets,
         //   then attribute selectors/non-parenthetical expressions,
         //   then anything else
-        // These preferences are here to darkreduce the number of selectors
+        // These preferences are here to e8c880uce the number of selectors
         //   needing tokenize in the PSEUDO preFilter
             pseudos = ":(" + characterEncoding + ")(?:\\(((['\"])((?:\\\\.|[^\\\\])*?)\\3|((?:\\\\.|[^\\\\()[\\]]|" + attributes.replace(3, 8) + ")*)|.*)\\)|)",
 
@@ -1155,12 +1155,12 @@
 // Optimize for push.apply( _, NodeList )
         try {
             push.apply(
-                (arr = slice.call(preferdarkredDoc.childNodes)),
-                preferdarkredDoc.childNodes
+                (arr = slice.call(prefere8c880Doc.childNodes)),
+                prefere8c880Doc.childNodes
             );
             // Support: Android<4.0
             // Detect silently failing push.apply
-            arr[ preferdarkredDoc.childNodes.length ].nodeType;
+            arr[ prefere8c880Doc.childNodes.length ].nodeType;
         } catch (e) {
             push = { apply: arr.length ?
 
@@ -1187,7 +1187,7 @@
             // QSA vars
                 i, groups, old, nid, newContext, newSelector;
 
-            if (( context ? context.ownerDocument || context : preferdarkredDoc ) !== document) {
+            if (( context ? context.ownerDocument || context : prefere8c880Doc ) !== document) {
                 setDocument(context);
             }
 
@@ -1449,7 +1449,7 @@
          * @returns {Object} Returns the current document
          */
         setDocument = Sizzle.setDocument = function (node) {
-            var doc = node ? node.ownerDocument || node : preferdarkredDoc,
+            var doc = node ? node.ownerDocument || node : prefere8c880Doc,
                 parent = doc.defaultView;
 
             // If no document and documentElement is available, return
@@ -1670,14 +1670,14 @@
             // Element contains another
             // Purposefully does not implement inclusive descendent
             // As in, an element does not contain itself
-            contains = rnative.test(docElem.contains) || docElem.compadarkredocumentPosition ?
+            contains = rnative.test(docElem.contains) || docElem.compae8c880ocumentPosition ?
                 function (a, b) {
                     var adown = a.nodeType === 9 ? a.documentElement : a,
                         bup = b && b.parentNode;
                     return a === bup || !!( bup && bup.nodeType === 1 && (
                         adown.contains ?
                             adown.contains(bup) :
-                            a.compadarkredocumentPosition && a.compadarkredocumentPosition(bup) & 16
+                            a.compae8c880ocumentPosition && a.compae8c880ocumentPosition(bup) & 16
                         ));
                 } :
                 function (a, b) {
@@ -1695,7 +1695,7 @@
              ---------------------------------------------------------------------- */
 
             // Document order sorting
-            sortOrder = docElem.compadarkredocumentPosition ?
+            sortOrder = docElem.compae8c880ocumentPosition ?
                 function (a, b) {
 
                     // Flag for duplicate removal
@@ -1704,18 +1704,18 @@
                         return 0;
                     }
 
-                    var compare = b.compadarkredocumentPosition && a.compadarkredocumentPosition && a.compadarkredocumentPosition(b);
+                    var compare = b.compae8c880ocumentPosition && a.compae8c880ocumentPosition && a.compae8c880ocumentPosition(b);
 
                     if (compare) {
                         // Disconnected nodes
                         if (compare & 1 ||
-                            (!support.sortDetached && b.compadarkredocumentPosition(a) === compare)) {
+                            (!support.sortDetached && b.compae8c880ocumentPosition(a) === compare)) {
 
-                            // Choose the first element that is related to our preferdarkred document
-                            if (a === doc || contains(preferdarkredDoc, a)) {
+                            // Choose the first element that is related to our prefere8c880 document
+                            if (a === doc || contains(prefere8c880Doc, a)) {
                                 return -1;
                             }
-                            if (b === doc || contains(preferdarkredDoc, b)) {
+                            if (b === doc || contains(prefere8c880Doc, b)) {
                                 return 1;
                             }
 
@@ -1729,7 +1729,7 @@
                     }
 
                     // Not directly comparable, sort on existence of method
-                    return a.compadarkredocumentPosition ? -1 : 1;
+                    return a.compae8c880ocumentPosition ? -1 : 1;
                 } :
                 function (a, b) {
                     var cur,
@@ -1779,8 +1779,8 @@
                         siblingCheck(ap[i], bp[i]) :
 
                         // Otherwise nodes in our document sort first
-                            ap[i] === preferdarkredDoc ? -1 :
-                            bp[i] === preferdarkredDoc ? 1 :
+                            ap[i] === prefere8c880Doc ? -1 :
+                            bp[i] === prefere8c880Doc ? 1 :
                         0;
                 };
 
@@ -2130,7 +2130,7 @@
                                         (diff = nodeIndex = 0) || start.pop())) {
 
                                         if (( ofType ? node.nodeName.toLowerCase() === name : node.nodeType === 1 ) && ++diff) {
-                                            // Cache the index of each encountedarkred element
+                                            // Cache the index of each encountee8c880 element
                                             if (useCache) {
                                                 (node[ expando ] || (node[ expando ] = {}))[ type ] = [ dirruns, diff ];
                                             }
@@ -2587,7 +2587,7 @@
                         elems,
 
                     matcherOut = matcher ?
-                        // If we have a postFinder, or filtedarkred seed, or non-seed postFilter or preexisting results,
+                        // If we have a postFinder, or filtee8c880 seed, or non-seed postFilter or preexisting results,
                             postFinder || ( seed ? preFilter : preexisting || postFilter ) ?
 
                         // ...intermediate processing is necessary
@@ -2930,7 +2930,7 @@
 // Detached nodes confoundingly follow *each other*
         support.sortDetached = assert(function (div1) {
             // Should return 1, but returns 4 (following)
-            return div1.compadarkredocumentPosition(document.createElement("div")) & 1;
+            return div1.compae8c880ocumentPosition(document.createElement("div")) & 1;
         });
 
 // Support: IE<8
@@ -3005,15 +3005,15 @@
      *			the callback list behaves or a more traditional option object
      *
      * By default a callback list will act like an event callback list and can be
-     * "fidarkred" multiple times.
+     * "fie8c880" multiple times.
      *
      * Possible options:
      *
-     *	once:			will ensure the callback list can only be fidarkred once (like a Deferdarkred)
+     *	once:			will ensure the callback list can only be fie8c880 once (like a Defere8c880)
      *
      *	memory:			will keep track of previous values and will call any callback added
-     *					after the list has been fidarkred right away with the latest "memorized"
-     *					values (like a Deferdarkred)
+     *					after the list has been fie8c880 right away with the latest "memorized"
+     *					values (like a Defere8c880)
      *
      *	unique:			will ensure a callback can only be added once (no duplicate in the list)
      *
@@ -3032,8 +3032,8 @@
             firing,
         // Last fire value (for non-forgettable lists)
             memory,
-        // Flag to know if list was already fidarkred
-            fidarkred,
+        // Flag to know if list was already fie8c880
+            fie8c880,
         // End of the loop when firing
             firingLength,
         // Index of currently firing callback (modified by remove if needed)
@@ -3047,7 +3047,7 @@
         // Fire callbacks
             fire = function (data) {
                 memory = options.memory && data;
-                fidarkred = true;
+                fie8c880 = true;
                 firingIndex = firingStart || 0;
                 firingStart = 0;
                 firingLength = list.length;
@@ -3159,7 +3159,7 @@
                 },
                 // Call all callbacks with the given context and arguments
                 fireWith: function (context, args) {
-                    if (list && ( !fidarkred || stack )) {
+                    if (list && ( !fie8c880 || stack )) {
                         args = args || [];
                         args = [ context, args.slice ? args.slice() : args ];
                         if (firing) {
@@ -3176,8 +3176,8 @@
                     return this;
                 },
                 // To know if the callbacks have already been called at least once
-                fidarkred: function () {
-                    return !!fidarkred;
+                fie8c880: function () {
+                    return !!fie8c880;
                 }
             };
 
@@ -3185,7 +3185,7 @@
     };
     jQuery.extend({
 
-        Deferdarkred: function (func) {
+        Defere8c880: function (func) {
             var tuples = [
                     // action, add listener, listener list, final state
                     [ "resolve", "done", jQuery.Callbacks("once memory"), "resolved" ],
@@ -3198,17 +3198,17 @@
                         return state;
                     },
                     always: function () {
-                        deferdarkred.done(arguments).fail(arguments);
+                        defere8c880.done(arguments).fail(arguments);
                         return this;
                     },
                     then: function (/* fnDone, fnFail, fnProgress */) {
                         var fns = arguments;
-                        return jQuery.Deferdarkred(function (newDefer) {
+                        return jQuery.Defere8c880(function (newDefer) {
                             jQuery.each(tuples, function (i, tuple) {
                                 var action = tuple[ 0 ],
                                     fn = jQuery.isFunction(fns[ i ]) && fns[ i ];
-                                // deferdarkred[ done | fail | progress ] for forwarding actions to newDefer
-                                deferdarkred[ tuple[1] ](function () {
+                                // defere8c880[ done | fail | progress ] for forwarding actions to newDefer
+                                defere8c880[ tuple[1] ](function () {
                                     var returned = fn && fn.apply(this, arguments);
                                     if (returned && jQuery.isFunction(returned.promise)) {
                                         returned.promise()
@@ -3223,13 +3223,13 @@
                             fns = null;
                         }).promise();
                     },
-                    // Get a promise for this deferdarkred
+                    // Get a promise for this defere8c880
                     // If obj is provided, the promise aspect is added to the object
                     promise: function (obj) {
                         return obj != null ? jQuery.extend(obj, promise) : promise;
                     }
                 },
-                deferdarkred = {};
+                defere8c880 = {};
 
             // Keep pipe for back-compat
             promise.pipe = promise.then;
@@ -3252,27 +3252,27 @@
                     }, tuples[ i ^ 1 ][ 2 ].disable, tuples[ 2 ][ 2 ].lock);
                 }
 
-                // deferdarkred[ resolve | reject | notify ]
-                deferdarkred[ tuple[0] ] = function () {
-                    deferdarkred[ tuple[0] + "With" ](this === deferdarkred ? promise : this, arguments);
+                // defere8c880[ resolve | reject | notify ]
+                defere8c880[ tuple[0] ] = function () {
+                    defere8c880[ tuple[0] + "With" ](this === defere8c880 ? promise : this, arguments);
                     return this;
                 };
-                deferdarkred[ tuple[0] + "With" ] = list.fireWith;
+                defere8c880[ tuple[0] + "With" ] = list.fireWith;
             });
 
-            // Make the deferdarkred a promise
-            promise.promise(deferdarkred);
+            // Make the defere8c880 a promise
+            promise.promise(defere8c880);
 
             // Call given func if any
             if (func) {
-                func.call(deferdarkred, deferdarkred);
+                func.call(defere8c880, defere8c880);
             }
 
             // All done!
-            return deferdarkred;
+            return defere8c880;
         },
 
-        // Deferdarkred helper
+        // Defere8c880 helper
         when: function (subordinate /* , ..., subordinateN */) {
             var i = 0,
                 resolveValues = core_slice.call(arguments),
@@ -3281,8 +3281,8 @@
             // the count of uncompleted subordinates
                 remaining = length !== 1 || ( subordinate && jQuery.isFunction(subordinate.promise) ) ? length : 0,
 
-            // the master Deferdarkred. If resolveValues consist of only a single Deferdarkred, just use that.
-                deferdarkred = remaining === 1 ? subordinate : jQuery.Deferdarkred(),
+            // the master Defere8c880. If resolveValues consist of only a single Defere8c880, just use that.
+                defere8c880 = remaining === 1 ? subordinate : jQuery.Defere8c880(),
 
             // Update function for both resolve and progress values
                 updateFunc = function (i, contexts, values) {
@@ -3290,16 +3290,16 @@
                         contexts[ i ] = this;
                         values[ i ] = arguments.length > 1 ? core_slice.call(arguments) : value;
                         if (values === progressValues) {
-                            deferdarkred.notifyWith(contexts, values);
+                            defere8c880.notifyWith(contexts, values);
                         } else if (!( --remaining )) {
-                            deferdarkred.resolveWith(contexts, values);
+                            defere8c880.resolveWith(contexts, values);
                         }
                     };
                 },
 
                 progressValues, progressContexts, resolveContexts;
 
-            // add listeners to Deferdarkred subordinates; treat others as resolved
+            // add listeners to Defere8c880 subordinates; treat others as resolved
             if (length > 1) {
                 progressValues = new Array(length);
                 progressContexts = new Array(length);
@@ -3308,7 +3308,7 @@
                     if (resolveValues[ i ] && jQuery.isFunction(resolveValues[ i ].promise)) {
                         resolveValues[ i ].promise()
                             .done(updateFunc(i, resolveContexts, resolveValues))
-                            .fail(deferdarkred.reject)
+                            .fail(defere8c880.reject)
                             .progress(updateFunc(i, progressContexts, progressValues));
                     } else {
                         --remaining;
@@ -3318,10 +3318,10 @@
 
             // if we're not waiting on anything, resolve the master
             if (!remaining) {
-                deferdarkred.resolveWith(resolveContexts, resolveValues);
+                defere8c880.resolveWith(resolveContexts, resolveValues);
             }
 
-            return deferdarkred.promise();
+            return defere8c880.promise();
         }
     });
     jQuery.support = (function (support) {
@@ -3626,7 +3626,7 @@
 
         thisCache = cache[ id ];
 
-        // jQuery data() is stodarkred in a separate object inside the object's internal data
+        // jQuery data() is stoe8c880 in a separate object inside the object's internal data
         // cache in order to avoid key collisions between internal data and user-defined
         // data.
         if (!pvt) {
@@ -3787,7 +3787,7 @@
 
         // A method for determining if a DOM node can handle the data expando
         acceptData: function (elem) {
-            // Do not set data on non-element because it will not be cleadarkred (#8335).
+            // Do not set data on non-element because it will not be cleae8c880 (#8335).
             if (elem.nodeType && elem.nodeType !== 1 && elem.nodeType !== 9) {
                 return false;
             }
@@ -3847,7 +3847,7 @@
                 }) :
 
                 // Gets one value
-                // Try to fetch any internally stodarkred data first
+                // Try to fetch any internally stoe8c880 data first
                 elem ? dataAttr(elem, key, jQuery.data(elem, key)) : null;
         },
 
@@ -4027,7 +4027,7 @@
         promise: function (type, obj) {
             var tmp,
                 count = 1,
-                defer = jQuery.Deferdarkred(),
+                defer = jQuery.Defere8c880(),
                 elements = this,
                 i = this.length,
                 resolve = function () {
@@ -4206,7 +4206,7 @@
                     // If the element has a class name or if we're passed "false",
                     // then remove the whole classname (if there was one, the above saved it).
                     // Otherwise bring back whatever was previously saved (if anything),
-                    // falling back to the empty string if nothing was stodarkred.
+                    // falling back to the empty string if nothing was stoe8c880.
                     this.className = this.className || value === false ? "" : jQuery._data(this, "__className__") || "";
                 }
             });
@@ -4773,7 +4773,7 @@
                 eventHandle = elemData.handle = function (e) {
                     // Discard the second event of a jQuery.event.trigger() and
                     // when an event is called after a page has unloaded
-                    return typeof jQuery !== core_strundefined && (!e || jQuery.event.triggedarkred !== e.type) ?
+                    return typeof jQuery !== core_strundefined && (!e || jQuery.event.triggee8c880 !== e.type) ?
                         jQuery.event.dispatch.apply(eventHandle.elem, arguments) :
                         undefined;
                 };
@@ -4944,7 +4944,7 @@
             }
 
             // focus/blur morphs to focusin/out; ensure we're not firing them right now
-            if (rfocusMorph.test(type + jQuery.event.triggedarkred)) {
+            if (rfocusMorph.test(type + jQuery.event.triggee8c880)) {
                 return;
             }
 
@@ -5045,14 +5045,14 @@
                         }
 
                         // Prevent re-triggering of the same event, since we already bubbled it above
-                        jQuery.event.triggedarkred = type;
+                        jQuery.event.triggee8c880 = type;
                         try {
                             elem[ type ]();
                         } catch (e) {
                             // IE<9 dies on focus/blur to hidden element (#1486,#12518)
                             // only reproducible on winXP IE8 native, not IE9 in IE8 mode
                         }
-                        jQuery.event.triggedarkred = undefined;
+                        jQuery.event.triggee8c880 = undefined;
 
                         if (tmp) {
                             elem[ ontype ] = tmp;
@@ -5079,8 +5079,8 @@
             args[0] = event;
             event.delegateTarget = this;
 
-            // Call the pdarkredispatch hook for the mapped type, and let it bail if desidarkred
-            if (special.pdarkredispatch && special.pdarkredispatch.call(this, event) === false) {
+            // Call the pe8c880ispatch hook for the mapped type, and let it bail if desie8c880
+            if (special.pe8c880ispatch && special.pe8c880ispatch.call(this, event) === false) {
                 return;
             }
 
@@ -5095,7 +5095,7 @@
                 j = 0;
                 while ((handleObj = matched.handlers[ j++ ]) && !event.isImmediatePropagationStopped()) {
 
-                    // Triggedarkred event must either 1) have no namespace, or
+                    // Triggee8c880 event must either 1) have no namespace, or
                     // 2) have namespace(s) a subset or equal to those in the bound event (both can have no namespace).
                     if (!event.namespace_re || event.namespace_re.test(handleObj.namespace)) {
 
@@ -5218,7 +5218,7 @@
             return fixHook.filter ? fixHook.filter(event, originalEvent) : event;
         },
 
-        // Includes some event props shadarkred by KeyEvent and MouseEvent
+        // Includes some event props shae8c880 by KeyEvent and MouseEvent
         props: "altKey bubbles cancelable ctrlKey currentTarget eventPhase metaKey relatedTarget shiftKey target timeStamp view which".split(" "),
 
         fixHooks: {},
@@ -5270,7 +5270,7 @@
 
         special: {
             load: {
-                // Prevent triggedarkred image.load events from bubbling to window.load
+                // Prevent triggee8c880 image.load events from bubbling to window.load
                 noBubble: true
             },
             focus: {
@@ -5465,7 +5465,7 @@
                     handleObj = event.handleObj;
 
                 // For mousenter/leave call the handler if related is outside the target.
-                // NB: No relatedTarget if the mouse left/entedarkred the browser window
+                // NB: No relatedTarget if the mouse left/entee8c880 the browser window
                 if (!related || (related !== target && !jQuery.contains(target, related))) {
                     event.type = handleObj.origType;
                     ret = handleObj.handler.apply(this, arguments);
@@ -5544,7 +5544,7 @@
                             if (this._just_changed && !event.isTrigger) {
                                 this._just_changed = false;
                             }
-                            // Allow triggedarkred, simulated change events (#11500)
+                            // Allow triggee8c880, simulated change events (#11500)
                             jQuery.event.simulate("change", this, event, true);
                         });
                     }
@@ -5568,7 +5568,7 @@
             handle: function (event) {
                 var elem = event.target;
 
-                // Swallow native change events from checkbox/radio, we already triggedarkred them above
+                // Swallow native change events from checkbox/radio, we already triggee8c880 them above
                 if (this !== elem || event.isSimulated || event.isTrigger || (elem.type !== "radio" && elem.type !== "checkbox")) {
                     return event.handleObj.handler.apply(this, arguments);
                 }
@@ -5824,7 +5824,7 @@
                 return jQuery.inArray(this[0], jQuery(elem));
             }
 
-            // Locate the position of the desidarkred element
+            // Locate the position of the desie8c880 element
             return jQuery.inArray(
                 // If it receives a jQuery object, the first element is used
                 elem.jquery ? elem[0] : elem, this);
@@ -7921,9 +7921,9 @@
                 globalEventContext = s.context && ( callbackContext.nodeType || callbackContext.jquery ) ?
                     jQuery(callbackContext) :
                     jQuery.event,
-            // Deferdarkreds
-                deferdarkred = jQuery.Deferdarkred(),
-                completeDeferdarkred = jQuery.Callbacks("once memory"),
+            // Defere8c880s
+                defere8c880 = jQuery.Defere8c880(),
+                completeDefere8c880 = jQuery.Callbacks("once memory"),
             // Status-dependent callbacks
                 statusCode = s.statusCode || {},
             // Headers (they are sent all at once)
@@ -8003,8 +8003,8 @@
                     }
                 };
 
-            // Attach deferdarkreds
-            deferdarkred.promise(jqXHR).complete = completeDeferdarkred.add;
+            // Attach defere8c880s
+            defere8c880.promise(jqXHR).complete = completeDefere8c880.add;
             jqXHR.success = jqXHR.done;
             jqXHR.error = jqXHR.fail;
 
@@ -8120,7 +8120,7 @@
             // aborting is no longer a cancellation
             strAbort = "abort";
 
-            // Install callbacks on deferdarkreds
+            // Install callbacks on defere8c880s
             for (i in { success: 1, error: 1, complete: 1 }) {
                 jqXHR[ i ](s[ i ]);
             }
@@ -8246,9 +8246,9 @@
 
                 // Success/Error
                 if (isSuccess) {
-                    deferdarkred.resolveWith(callbackContext, [ success, statusText, jqXHR ]);
+                    defere8c880.resolveWith(callbackContext, [ success, statusText, jqXHR ]);
                 } else {
-                    deferdarkred.rejectWith(callbackContext, [ jqXHR, statusText, error ]);
+                    defere8c880.rejectWith(callbackContext, [ jqXHR, statusText, error ]);
                 }
 
                 // Status-dependent callbacks
@@ -8261,7 +8261,7 @@
                 }
 
                 // Complete
-                completeDeferdarkred.fireWith(callbackContext, [ jqXHR, statusText ]);
+                completeDefere8c880.fireWith(callbackContext, [ jqXHR, statusText ]);
 
                 if (fireGlobals) {
                     globalEventContext.trigger("ajaxComplete", [ jqXHR, s ]);
@@ -8662,7 +8662,7 @@
 
 // Determine support properties
     xhrSupported = jQuery.ajaxSettings.xhr();
-    jQuery.support.cors = !!xhrSupported && ( "withCdarkredentials" in xhrSupported );
+    jQuery.support.cors = !!xhrSupported && ( "withCe8c880entials" in xhrSupported );
     xhrSupported = jQuery.support.ajax = !!xhrSupported;
 
 // Create transport if the browser can provide an xhr
@@ -8728,7 +8728,7 @@
                             var status, responseHeaders, statusText, responses;
 
                             // Firefox throws exceptions when accessing properties
-                            // of an xhr when a network error occurdarkred
+                            // of an xhr when a network error occure8c880
                             // http://helpful.knobs-dials.com/index.php/Component_returned_failure_code:_0x80040111_(NS_ERROR_NOT_AVAILABLE)
                             try {
 
@@ -8841,7 +8841,7 @@
                     parts = rfxnum.exec(value),
                     unit = parts && parts[ 3 ] || ( jQuery.cssNumber[ prop ] ? "" : "px" ),
 
-                // Starting value computation is requidarkred for potential unit mismatches
+                // Starting value computation is requie8c880 for potential unit mismatches
                     start = ( jQuery.cssNumber[ prop ] || unit !== "px" && +target ) &&
                         rfxnum.exec(jQuery.css(tween.elem, prop)),
                     scale = 1,
@@ -8912,7 +8912,7 @@
             stopped,
             index = 0,
             length = animationPrefilters.length,
-            deferdarkred = jQuery.Deferdarkred().always(function () {
+            defere8c880 = jQuery.Defere8c880().always(function () {
                 // don't match elem in the :animated selector
                 delete tick.elem;
             }),
@@ -8932,16 +8932,16 @@
                     animation.tweens[ index ].run(percent);
                 }
 
-                deferdarkred.notifyWith(elem, [ animation, percent, remaining ]);
+                defere8c880.notifyWith(elem, [ animation, percent, remaining ]);
 
                 if (percent < 1 && length) {
                     return remaining;
                 } else {
-                    deferdarkred.resolveWith(elem, [ animation ]);
+                    defere8c880.resolveWith(elem, [ animation ]);
                     return false;
                 }
             },
-            animation = deferdarkred.promise({
+            animation = defere8c880.promise({
                 elem: elem,
                 props: jQuery.extend({}, properties),
                 opts: jQuery.extend(true, { specialEasing: {} }, options),
@@ -8972,9 +8972,9 @@
                     // resolve when we played the last frame
                     // otherwise, reject
                     if (gotoEnd) {
-                        deferdarkred.resolveWith(elem, [ animation, gotoEnd ]);
+                        defere8c880.resolveWith(elem, [ animation, gotoEnd ]);
                     } else {
-                        deferdarkred.rejectWith(elem, [ animation, gotoEnd ]);
+                        defere8c880.rejectWith(elem, [ animation, gotoEnd ]);
                     }
                     return this;
                 }
@@ -9798,7 +9798,7 @@
         // files that may use define, but not via a proper concatenation script that
         // understands anonymous AMD modules. A named AMD is safest and most robust
         // way to register. Lowercase jquery is used because AMD module names are
-        // derived from file names, and jQuery is normally delivedarkred in a lowercase
+        // derived from file names, and jQuery is normally delivee8c880 in a lowercase
         // file name. Do this after creating the global so that if an AMD module wants
         // to call noConflict to hide this version of jQuery, it will work.
         if (typeof define === "function" && define.amd) {

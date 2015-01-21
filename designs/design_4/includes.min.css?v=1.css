@@ -2622,7 +2622,7 @@ ul.panda-catalog-product-item-photos-list {
     margin-right: 5px
 }
 
-.panda-gadget-catalog-item-price-darkred {
+.panda-gadget-catalog-item-price-e8c880 {
     color: #ca0000 !important
 }
 
@@ -3350,7 +3350,7 @@ div.panda-catalog-product-list-item-rating {
     padding-top: 8px
 }
 
-.panda-catalog-product-list-item-darkred {
+.panda-catalog-product-list-item-e8c880 {
     font-size: 20px !important;
     color: #a70202
 }
@@ -3430,7 +3430,7 @@ div.panda-catalog-product-list-item-rating {
     position: absolute
 }
 
-td .panda-secondary-font, td .panda-secondary-font.panda-catalog-product-list-item-old-price, td .panda-secondary-font.panda-catalog-product-list-item-darkred {
+td .panda-secondary-font, td .panda-secondary-font.panda-catalog-product-list-item-old-price, td .panda-secondary-font.panda-catalog-product-list-item-e8c880 {
     font-size: 16px !important
 }
 
@@ -4717,7 +4717,7 @@ td.panda-form-label {
     padding-top: 5px;
     line-height: 20px;
     font-size: 14px;
-    color: darkred
+    color: e8c880
 }
 
 .panda-label {
@@ -4896,12 +4896,12 @@ td.panda-form-label .panda-form-submit {
     background: url(common/images/blank.gif)
 }
 
-.panda-field-requidarkred {
+.panda-field-requie8c880 {
     border: 1px solid #fe7800;
     box-shadow: inset 1px 1px 1px 0 #ffab61
 }
 
-.panda-field-requidarkred:after {
+.panda-field-requie8c880:after {
     content: "* обязательно к заполнению";
     color: #fe7800;
     font-size: 11px;
@@ -4925,8 +4925,8 @@ td.panda-form-label .panda-form-submit {
     min-width: 0
 }
 
-.panda-form-field-requidarkred {
-    color: darkred;
+.panda-form-field-requie8c880 {
+    color: e8c880;
     font-weight: 400 !important
 }
 
@@ -5095,7 +5095,7 @@ a.panda-btn {
     font-family: "Times New Roman", Times, serif !important
 }
 
-.panda-order-list-item-products-sum .panda-btn-cdarkredit {
+.panda-order-list-item-products-sum .panda-btn-ce8c880it {
     width: auto !important
 }
 
@@ -6625,7 +6625,7 @@ img.panda-img-circle {
     content: "\e176"
 }
 
-.bootstrap-glyphicon-cdarkredit-card:before {
+.bootstrap-glyphicon-ce8c880it-card:before {
     content: "\e177"
 }
 
@@ -10522,19 +10522,19 @@ a.bootstrap-list-group-item-danger.bootstrap-active, a.bootstrap-list-group-item
     border-top: 0
 }
 
-.bootstrap-panel > .bootstrap-table-bordedarkred, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred {
+.bootstrap-panel > .bootstrap-table-bordee8c880, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 {
     border: 0
 }
 
-.bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr > td:first-child, .bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr > th:first-child, .bootstrap-panel > .bootstrap-table-bordedarkred > tfoot > tr > td:first-child, .bootstrap-panel > .bootstrap-table-bordedarkred > tfoot > tr > th:first-child, .bootstrap-panel > .bootstrap-table-bordedarkred > thead > tr > td:first-child, .bootstrap-panel > .bootstrap-table-bordedarkred > thead > tr > th:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr > td:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr > th:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tfoot > tr > td:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tfoot > tr > th:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > thead > tr > td:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > thead > tr > th:first-child {
+.bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr > td:first-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr > th:first-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > tfoot > tr > td:first-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > tfoot > tr > th:first-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > thead > tr > td:first-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > thead > tr > th:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr > td:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr > th:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tfoot > tr > td:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tfoot > tr > th:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > thead > tr > td:first-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > thead > tr > th:first-child {
     border-left: 0
 }
 
-.bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr > td:last-child, .bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr > th:last-child, .bootstrap-panel > .bootstrap-table-bordedarkred > tfoot > tr > td:last-child, .bootstrap-panel > .bootstrap-table-bordedarkred > tfoot > tr > th:last-child, .bootstrap-panel > .bootstrap-table-bordedarkred > thead > tr > td:last-child, .bootstrap-panel > .bootstrap-table-bordedarkred > thead > tr > th:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr > td:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr > th:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tfoot > tr > td:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tfoot > tr > th:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > thead > tr > td:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > thead > tr > th:last-child {
+.bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr > td:last-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr > th:last-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > tfoot > tr > td:last-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > tfoot > tr > th:last-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > thead > tr > td:last-child, .bootstrap-panel > .bootstrap-table-bordee8c880 > thead > tr > th:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr > td:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr > th:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tfoot > tr > td:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tfoot > tr > th:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > thead > tr > td:last-child, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > thead > tr > th:last-child {
     border-right: 0
 }
 
-.bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr:first-child > td, .bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr:first-child > th, .bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr:last-child > td, .bootstrap-panel > .bootstrap-table-bordedarkred > tbody > tr:last-child > th, .bootstrap-panel > .bootstrap-table-bordedarkred > tfoot > tr:last-child > td, .bootstrap-panel > .bootstrap-table-bordedarkred > tfoot > tr:last-child > th, .bootstrap-panel > .bootstrap-table-bordedarkred > thead > tr:first-child > td, .bootstrap-panel > .bootstrap-table-bordedarkred > thead > tr:first-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr:first-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr:first-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr:last-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tbody > tr:last-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tfoot > tr:last-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > tfoot > tr:last-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > thead > tr:first-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordedarkred > thead > tr:first-child > th {
+.bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr:first-child > td, .bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr:first-child > th, .bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr:last-child > td, .bootstrap-panel > .bootstrap-table-bordee8c880 > tbody > tr:last-child > th, .bootstrap-panel > .bootstrap-table-bordee8c880 > tfoot > tr:last-child > td, .bootstrap-panel > .bootstrap-table-bordee8c880 > tfoot > tr:last-child > th, .bootstrap-panel > .bootstrap-table-bordee8c880 > thead > tr:first-child > td, .bootstrap-panel > .bootstrap-table-bordee8c880 > thead > tr:first-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr:first-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr:first-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr:last-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tbody > tr:last-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tfoot > tr:last-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > tfoot > tr:last-child > th, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > thead > tr:first-child > td, .bootstrap-panel > .bootstrap-table-responsive > .bootstrap-table-bordee8c880 > thead > tr:first-child > th {
     border-bottom: 0
 }
 
@@ -11255,7 +11255,7 @@ button.bootstrap-close {
     background-image: -o-linear-gradient(left, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%);
     background-image: linear-gradient(to right, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%);
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#82220', endColorstr='#22200', GradientType=1)
 }
 
 .bootstrap-carousel-control.bootstrap-right {
@@ -11265,7 +11265,7 @@ button.bootstrap-close {
     background-image: -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
     background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
     background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#22200', endColorstr='#82220', GradientType=1)
 }
 
 .bootstrap-carousel-control:focus, .bootstrap-carousel-control:hover {

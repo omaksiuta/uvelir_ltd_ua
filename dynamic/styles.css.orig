@@ -62,7 +62,7 @@ h2, h3, h2 a, h3 a, .h2, .h3
 /* Цвет ссылки */
 a, .panda-link
 {
-	color: darkred;
+	color: e8c880;
 	text-decoration: underline;
 	border: 0px;
 }
@@ -80,7 +80,7 @@ a, .panda-link
 
 .panda-menu__horizontal-header-submenu
 {
-	border-left: 4px darkred solid;
+	border-left: 4px e8c880 solid;
 	background: #4a3d4a;
 }
 
@@ -122,7 +122,7 @@ a:hover, a:hover .panda-link
 /* Цвет отдельных плашек */
 .panda-area-color
 {
-	background-color: darkred;
+	background-color: e8c880;
 }
 
 	table[border="0"] {
@@ -314,18 +314,18 @@ a:hover, a:hover .panda-link
 /* Цвет фона и рамки кнопок */
 .panda-btn span
 {
-	background: darkred;
+	background: e8c880;
 	border-color: #701e2d;
 }
 
-.panda-btn-cdarkredit span
+.panda-btn-ce8c880it span
 {
 	background: ;
 	border-color: ;
 }
 
 .panda-search-submit-wrapper .panda-links__submit {
-	background-color: darkred !important;
+	background-color: e8c880 !important;
 }
 
 /* Цвет фона кнопок при наведении мыши */
@@ -333,10 +333,10 @@ a:hover, a:hover .panda-link
 .panda-btn-hover span
 {
 	background: #701e2d;
-	border-color: darkred;
+	border-color: e8c880;
 }
 
-.panda-btn-cdarkredit:hover span
+.panda-btn-ce8c880it:hover span
 {
 	background: ;
 	border-color: ;
@@ -346,7 +346,7 @@ a:hover, a:hover .panda-link
 .panda-btn__disabled:hover span,
 .panda-btn__disabled-hover span
 {
-	background: darkred;
+	background: e8c880;
 	border-color: #701e2d;
 }
 
@@ -411,7 +411,7 @@ dd.panda-catalog-product-list-item-price
 
 .panda-menu-border-bottom
 {
-	border-bottom:4px darkred solid;
+	border-bottom:4px e8c880 solid;
 }
 
 .panda-menu__horizontal-header-submenu li span ins {
@@ -475,9 +475,9 @@ td.panda-catalog-product-list-item-price {
 	background-color: #f6f7f7;
 }
 .interactiveHeader-buttons {
-	color: darkred !important;
-	border-top-color: darkred !important;
-	border-bottom-color: darkred !important;
+	color: e8c880 !important;
+	border-top-color: e8c880 !important;
+	border-bottom-color: e8c880 !important;
 }
 
 
@@ -487,13 +487,13 @@ td.panda-catalog-product-list-item-price {
 
 /*---------------------start для проф.корзины -------------------*/
 .panda-basket__steps-item.active, .panda-basket__steps-arrow.active, .panda-basket__steps-arrow.active_step{
-	background: darkred;
-	background: -moz-linear-gradient(top, darkred, #701e2d);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,darkred), color-stop(100%,#701e2d));
-	background: -webkit-linear-gradient(top, darkred, #701e2d);
-	background: -o-linear-gradient(top, darkred, #701e2d);
-	background: -ms-linear-gradient(top, darkred, #701e2d);
-	background: linear-gradient(top, darkred, #701e2d);
+	background: e8c880;
+	background: -moz-linear-gradient(top, e8c880, #701e2d);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,e8c880), color-stop(100%,#701e2d));
+	background: -webkit-linear-gradient(top, e8c880, #701e2d);
+	background: -o-linear-gradient(top, e8c880, #701e2d);
+	background: -ms-linear-gradient(top, e8c880, #701e2d);
+	background: linear-gradient(top, e8c880, #701e2d);
 }
 .panda-basket__steps-item.active  .panda-basket__steps-item-num{
 	border-color:  #000000;
@@ -506,10 +506,10 @@ td.panda-catalog-product-list-item-price {
 	background:#000000;
 }
 .toolTip:hover {
-	color: darkred;
+	color: e8c880;
 }
 .toolTipMid, .toolTipBtmRight, .toolTipBtmLeft, .toolTip:hover{
-	border-color:darkred;
+	border-color:e8c880;
 }
 
 
