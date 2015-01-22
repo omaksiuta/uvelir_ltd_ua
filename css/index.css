@@ -73,10 +73,12 @@ footer {
 .logotext {
     font-size: 65px;
     text-transform: capitalize;
+    /*font-style: italic;*/
 }
 .logoDescription {
     font-size: 19px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
+    font-style: italic;
 }
 
 .topContacts {
