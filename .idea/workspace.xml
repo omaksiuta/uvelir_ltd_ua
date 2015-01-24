@@ -2,102 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="111c6197-a3cc-4bd5-87d1-fc965d77e9dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/baraka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/boucheron.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/bvlgari.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/carrera.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/cartier.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/chanel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/chaumet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/chopard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/damiani.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/degrisogono.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/dior.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/graff.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/gucci.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/harrywinston.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/omega.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/piaget.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/pomellato.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/tiffany.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/vancleefarpels.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/versace.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/brands.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/brands.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/scripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/scripts/jquery.uploadify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/styles/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/styles/application.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/styles/simplemodal-white.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/styles/simplemodal-white.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/application/styles/uploadify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/catalog/images/center.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/catalog/images/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/catalog/images/help_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/catalog/images/help_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/catalog/images/item-photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/catalog/images/rating.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/colorbox/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/contact/icq.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/contact/skype.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancy_title_over.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancybox-x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancybox-y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/fancybox/fancybox.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/footer/login-link-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/footer/login-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/footer/logosmall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/header/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/header/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/images/totopicons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/scripts/totop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/styles/sitemap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/styles/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/styles/totop.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/common/styles/totop.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/comparison/images/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/comparison/images/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/fields/images/select-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/gallery/images/item-photo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/gallery/images/item-popup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/illustration/images/marker-active.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/illustration/images/marker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/includes.min.css?v=1.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/includes.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/navi-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/navi-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/path-item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/sort_by.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/sort_by_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/inner/images/sort_by_up_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/orders/images/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/orders/images/delete_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/orders/images/field.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/orders/images/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/vertical_menu/images/li.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/design_4/vertical_menu/images/li_sub.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/css/font-awesome.min.css.orig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.eot?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.svg?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.ttf?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/font-awesome/fonts/fontawesome-webfont.woff?v=4.2.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.core.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.mouse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.sortable.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/jquery-ui/ui/jquery.ui.widget.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/designs/static/panda-bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/aaron-basha.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/albertoBossi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/asprey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/brands/rolex.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/base.css" afterPath="$PROJECT_DIR$/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/brands.css" afterPath="$PROJECT_DIR$/css/brands.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brands.html" afterPath="$PROJECT_DIR$/brands.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/menu.css" afterPath="$PROJECT_DIR$/css/menu.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="uvelir_ltd_ua.iws" />
@@ -119,28 +33,7 @@
     <favorites_list name="uvelir_ltd_ua" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="brands.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brands.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.833333" vertical-offset="155" max-vertical-offset="3360">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="brands.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/brands.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36476427" vertical-offset="0" max-vertical-offset="840">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -176,24 +69,24 @@
         <option value="$PROJECT_DIR$/js/Slides-SlidesJS-3/examples/multiple/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/js/Slides-SlidesJS-3/examples/multiple/css/example.css" />
         <option value="$PROJECT_DIR$/css/contacts.css" />
-        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/about.css" />
         <option value="$PROJECT_DIR$/css/services.css" />
-        <option value="$PROJECT_DIR$/css/menu.css" />
         <option value="$PROJECT_DIR$/main.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/css/menu.css" />
         <option value="$PROJECT_DIR$/brands.html" />
         <option value="$PROJECT_DIR$/css/brands.css" />
+        <option value="$PROJECT_DIR$/css/base.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="744" />
-    <option name="y" value="39" />
-    <option name="width" value="695" />
-    <option name="height" value="861" />
+    <option name="x" value="49" />
+    <option name="y" value="18" />
+    <option name="width" value="1391" />
+    <option name="height" value="882" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -251,38 +144,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uvelir_ltd_ua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uvelir_ltd_ua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brands" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uvelir_ltd_ua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uvelir_ltd_ua" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -309,11 +170,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/brands" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images/main" />
-      <recent name="$PROJECT_DIR$/images/icons" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -567,7 +428,7 @@
       <workItem from="1422112698763" duration="3016000" />
       <workItem from="1422115739267" duration="10000" />
       <workItem from="1422115801620" duration="444000" />
-      <workItem from="1422116282275" duration="1657000" />
+      <workItem from="1422116282275" duration="6698000" />
     </task>
     <task id="LOCAL-00001" summary="changes of css base">
       <created>1421006543397</created>
@@ -633,14 +494,18 @@
       <created>1421965819599</created>
       <updated>1421965819599</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added brands page">
+      <created>1422117959055</created>
+      <updated>1422117959055</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68464000" />
+    <option name="totallyTimeSpent" value="73505000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="744" y="39" width="695" height="861" extended-state="4" />
+    <frame x="49" y="18" width="1391" height="882" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -648,6 +513,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27071178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -656,17 +522,16 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25261933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31942445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15959741" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27071178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25261933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19557625" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -703,7 +568,8 @@
     <MESSAGE value="changed style to http://dynasty-jw.ru/" />
     <MESSAGE value="redizgned" />
     <MESSAGE value="super fine main" />
-    <option name="LAST_COMMIT_MESSAGE" value="super fine main" />
+    <MESSAGE value="added brands page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added brands page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -982,40 +848,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31438935" vertical-offset="223" max-vertical-offset="3570">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48246676" vertical-offset="0" max-vertical-offset="1029">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/about.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12696493" vertical-offset="0" max-vertical-offset="827">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7589286" vertical-offset="3983" max-vertical-offset="5145">
-          <caret line="218" column="20" selection-start-line="218" selection-start-column="20" selection-end-line="218" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2031439" vertical-offset="0" max-vertical-offset="827">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,34 +869,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15235792" vertical-offset="0" max-vertical-offset="1029">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5714286" vertical-offset="3605" max-vertical-offset="5145">
+          <caret line="193" column="26" selection-start-line="193" selection-start-column="26" selection-end-line="193" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33249685" vertical-offset="2591" max-vertical-offset="3591">
+          <caret line="136" column="11" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3559322" vertical-offset="0" max-vertical-offset="861">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10157195" vertical-offset="0" max-vertical-offset="2352">
-          <caret line="4" column="23" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.5102781" vertical-offset="1090" max-vertical-offset="2436">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.026785715" vertical-offset="0" max-vertical-offset="3906">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="81" />
-          <folding />
+        <state vertical-scroll-proportion="0.49362245" vertical-offset="1167" max-vertical-offset="3738">
+          <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/brands.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.833333" vertical-offset="155" max-vertical-offset="3360">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.3952321" vertical-offset="0" max-vertical-offset="3045">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/brands.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36476427" vertical-offset="0" max-vertical-offset="840">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.43168077" vertical-offset="0" max-vertical-offset="840">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="18" />
           <folding />
         </state>
       </provider>

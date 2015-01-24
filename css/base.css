@@ -5,7 +5,8 @@ html
     font-family: times, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 body{
-    padding-bottom: 10px;
+    padding-top:  25px;
+    padding-bottom:  50px;
 }
 .readText{
     height: 400px;
@@ -15,6 +16,21 @@ body{
     /*padding-bottom: 50px;*/
     padding: 5%;
 }
-h1{
-    /*color: #e8c880;*/
+
+.pagePath
+{
+
+
+}
+
+.pageSubject
+{
+    /*width: 200px;*/
+    display: inline-block;
+    font-weight: normal;
+    color:  #e8c880;
+    /*background-color: white;*/
+    /*width: 800px;*/
+    font-size: 25px;
+    margin-bottom: 10px;
 }

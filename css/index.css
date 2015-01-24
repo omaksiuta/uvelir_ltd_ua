@@ -25,7 +25,7 @@ section iframe {
 }
 
 #iFrameSection {
-
+margin-top: 0px;
 }
 
 header {
@@ -46,7 +46,7 @@ footer {
 }
 
 .footerLink {
-    color: white;
+    color: #e8c880;
     margin: 5px;
     padding: 0px;
     text-decoration: none;
@@ -64,14 +64,13 @@ footer {
 }
 
 .logo {
-    vertical-align: top;
     font-family: times, Times New Roman, times-roman, georgia, serif;
     color: #e8c880;
     display: inline-block;
 }
 
 .logotext {
-    font-size: 65px;
+    font-size: 55px;
     text-transform: capitalize;
     /*font-style: italic;*/
 }
@@ -104,3 +103,9 @@ footer {
     height: 30px;
 }
 
+.footerInfo
+{
+    font-size: 14px;
+    color: #e8c880;
+    margin-top: 10px;
+}
