@@ -4,6 +4,9 @@ html
     /*background-color: white;*/
     font-family: times, Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
+body{
+    padding-bottom: 10px;
+}
 .readText{
     height: 400px;
     color: #222;
