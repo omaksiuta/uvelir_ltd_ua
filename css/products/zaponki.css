@@ -1,0 +1,9 @@
+﻿html{
+    background-color: white;
+    text-align: center;
+    color: #222;
+}
+p > img{
+    width: 250px;
+    height: 250px;
+}

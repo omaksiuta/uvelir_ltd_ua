@@ -25,9 +25,9 @@ body{
 
 .pageSubject
 {
+    font-weight: bold;
     /*width: 200px;*/
     display: inline-block;
-    font-weight: normal;
     color:  #e8c880;
     /*background-color: white;*/
     /*width: 800px;*/
